@@ -3,52 +3,68 @@
 		"rates": [
 			{
 				"step 1": [
-					"featured%": 1,0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 39.0
+					{
+						"featured%": 1,0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 39.0
+					}
 				],
 				"step 2": [
-					"featured%": 1.5,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 38.5
+					{
+						"featured%": 1.5,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 38.5
+					}
 				],
 				"step 3": [
-					"featured%": 2.0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 38.0
+					{
+						"featured%": 2.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 38.0
+					}
 				],
 				"step 4": [
-					"featured%": 2.5,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 37.5
+					{
+						"featured%": 2.5,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 37.5
+					}
 				],
 				"step 5": [
-					"featured%": 3.0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 37.0
+					{
+						"featured%": 3.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 37.0
+					}
 				],
 				"step 6": [
-					"featured%": 3.5,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 36.5
+					{
+						"featured%": 3.5,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 36.5
+					}
 				],
 				"step 7": [
-					"featured%": 4.0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 36.0
+					{
+						"featured%": 4.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 36.0
+					}
 				],
 				"step 8": [
-					"featured%": 5.0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 35.0
+					{
+						"featured%": 5.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 35.0
+					}
 				],
 			},
 			{
@@ -65,52 +81,68 @@
 		"rates": [
 			{
 				"step 1": [
-					"featured%": 1,0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 39.0
+					{
+						"featured%": 1,0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 39.0
+					}
 				],
 				"step 2": [
-					"featured%": 1.5,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 38.5
+					{
+						"featured%": 1.5,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 38.5
+					}
 				],
 				"step 3": [
-					"featured%": 2.0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 38.0
+					{
+						"featured%": 2.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 38.0
+					}
 				],
 				"step 4": [
-					"featured%": 2.5,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 37.5
+					{
+						"featured%": 2.5,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 37.5
+					}
 				],
 				"step 5": [
-					"featured%": 3.0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 37.0
+					{
+						"featured%": 3.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 37.0
+					}
 				],
 				"step 6": [
-					"featured%": 3.5,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 36.5
+					{
+						"featured%": 3.5,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 36.5
+					}
 				],
 				"step 7": [
-					"featured%": 4.0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 36.0
+					{
+						"featured%": 4.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 36.0
+					}
 				],
 				"step 8": [
-					"featured%": 5.0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 35.0
+					{
+						"featured%": 5.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 35.0
+					}
 				],
 			},
 			{
@@ -127,52 +159,68 @@
 		"rates": [
 			{
 				"step 1": [
-					"featured%": 1,0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 39.0
+					{
+						"featured%": 1,0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 39.0
+					}
 				],
 				"step 2": [
-					"featured%": 1.5,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 38.5
+					{
+						"featured%": 1.5,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 38.5
+					}
 				],
 				"step 3": [
-					"featured%": 2.0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 38.0
+					{
+						"featured%": 2.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 38.0
+					}
 				],
 				"step 4": [
-					"featured%": 2.5,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 37.5
+					{
+						"featured%": 2.5,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 37.5
+					}
 				],
 				"step 5": [
-					"featured%": 3.0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 37.0
+					{
+						"featured%": 3.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 37.0
+					}
 				],
 				"step 6": [
-					"featured%": 3.5,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 36.5
+					{
+						"featured%": 3.5,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 36.5
+					}
 				],
 				"step 7": [
-					"featured%": 4.0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 36.0
+					{
+						"featured%": 4.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 36.0
+					}
 				],
 				"step 8": [
-					"featured%": 5.0,
-					"global exclusive%": 14.0,
-					"shion to roglizer%": 46.0,
-					"kulyuk to regil%": 35.0
+					{
+						"featured%": 5.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 35.0
+					}
 				],
 			},
 			{
