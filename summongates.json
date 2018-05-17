@@ -1162,4 +1162,153 @@
 		"gate name": "Vortex Arena Summon",
 		"active": false
 	},
+	"Divine Summon Pool 3": {
+		"rates": [
+			{
+				"step 1": [
+					{
+						"featured% (1)": 1.0,
+						"featured% (2)": 0.0,
+						"featured% (3)": 0.0,
+						"featured% (4)": 0.0,
+						"featured% (5)": 0.0,
+						"featured% (6)": 0.0,
+						"featured% (7)": 0.0,
+						"featured% (8)": 0.0,
+						"featured% (9)": 0.0,
+						"featured% (10)": 0.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 39.0
+					}
+				],
+				"step 2": [
+					{
+						"featured% (1)": 1.5,
+						"featured% (2)": 0.0,
+						"featured% (3)": 0.0,
+						"featured% (4)": 0.0,
+						"featured% (5)": 0.0,
+						"featured% (6)": 0.0,
+						"featured% (7)": 0.0,
+						"featured% (8)": 0.0,
+						"featured% (9)": 0.0,
+						"featured% (10)": 0.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 38.5
+					}
+				],
+				"step 3": [
+					{
+						"featured% (1)": 2.0,
+						"featured% (2)": 0.0,
+						"featured% (3)": 0.0,
+						"featured% (4)": 0.0,
+						"featured% (5)": 0.0,
+						"featured% (6)": 0.0,
+						"featured% (7)": 0.0,
+						"featured% (8)": 0.0,
+						"featured% (9)": 0.0,
+						"featured% (10)": 0.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 38.0
+					}
+				],
+				"step 4": [
+					{
+						"featured% (1)": 2.5,
+						"featured% (2)": 0.0,
+						"featured% (3)": 0.0,
+						"featured% (4)": 0.0,
+						"featured% (5)": 0.0,
+						"featured% (6)": 0.0,
+						"featured% (7)": 0.0,
+						"featured% (8)": 0.0,
+						"featured% (9)": 0.0,
+						"featured% (10)": 0.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 37.5
+					}
+				],
+				"step 5": [
+					{
+						"featured% (1)": 3.0,
+						"featured% (2)": 0.0,
+						"featured% (3)": 0.0,
+						"featured% (4)": 0.0,
+						"featured% (5)": 0.0,
+						"featured% (6)": 0.0,
+						"featured% (7)": 0.0,
+						"featured% (8)": 0.0,
+						"featured% (9)": 0.0,
+						"featured% (10)": 0.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 37.0
+					}
+				],
+				"step 6": [
+					{
+						"featured% (1)": 3.5,
+						"featured% (2)": 0.0,
+						"featured% (3)": 0.0,
+						"featured% (4)": 0.0,
+						"featured% (5)": 0.0,
+						"featured% (6)": 0.0,
+						"featured% (7)": 0.0,
+						"featured% (8)": 0.0,
+						"featured% (9)": 0.0,
+						"featured% (10)": 0.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 36.5
+					}
+				],
+				"step 7": [
+					{
+						"featured% (1)": 4.0,
+						"featured% (2)": 0.0,
+						"featured% (3)": 0.0,
+						"featured% (4)": 0.0,
+						"featured% (5)": 0.0,
+						"featured% (6)": 0.0,
+						"featured% (7)": 0.0,
+						"featured% (8)": 0.0,
+						"featured% (9)": 0.0,
+						"featured% (10)": 0.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 36.0
+					}
+				],
+				"step max": [
+					{
+						"featured% (1)": 5.0,
+						"featured% (2)": 0.0,
+						"featured% (3)": 0.0,
+						"featured% (4)": 0.0,
+						"featured% (5)": 0.0,
+						"featured% (6)": 0.0,
+						"featured% (7)": 0.0,
+						"featured% (8)": 0.0,
+						"featured% (9)": 0.0,
+						"featured% (10)": 0.0,
+						"global exclusive%": 14.0,
+						"shion to roglizer%": 46.0,
+						"kulyuk to regil%": 35.0
+					}
+				],
+				{
+				"featured (1)": [840607],
+				"global exclusive": [810105,830505,860255,850155,860315,810337,810417,850417,830417,820417,840417,860417,830437,810437,830325,850315,810047,810557,820047,820557,830047,840047,850047,860047],
+				"kulyuk to regil": [10846,20796,40766,30786,50986,10896,20826,50996,30796,51006,20836,40786,20856,61006,10916,30816,10936,20876,51036,30836,40816,61026,20886,40826,51046,10946,30846,61036,20906,30866,51066,10976,40856,61046,10996,30876,40866,20926,51086,61056,11016,51106,61066,20946,30896,40876,11036,51126,61086,20966,30916,40886],
+				"shion to roglizer": [11046,20976,40896,30926,51136,61096,20986,40906,51166,11056,30946,20996,40916,51186,11066,30956,61136,30966,61146,40936,51216,11096,21006,40946,30986,30517,21036,51256,61196,21046,30996,40976,11116,51276,61216,31006,40986,11146,31036,21086,41016,51326,61256,41036,51336,11166,21106,31066,61286]
+			}
+		],
+		"gate name": "World Summon",
+		"active": true
+	},
 }
