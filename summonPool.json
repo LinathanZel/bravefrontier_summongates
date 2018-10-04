@@ -1,0 +1,7699 @@
+{
+   "10092": {
+      "name": "Firedrake", 
+      "element": "fire", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "10093": {
+      "name": "Dragon Graven", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "10094": {
+      "name": "Dalimaone", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "10095": {
+      "name": "Dragon God Granados", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "10102": {
+      "name": "Knight Agni", 
+      "element": "fire", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "10103": {
+      "name": "Fire Knight Agni", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "10104": {
+      "name": "Magma Knight Agni", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 13 
+   },
+   "10105": {
+      "name": "Blazing Knight Agni", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "10112": {
+      "name": "Phoenix", 
+      "element": "fire", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "10113": {
+      "name": "Lava Phoenix", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "10114": {
+      "name": "God Phoenix", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "10115": {
+      "name": "Phoenix Reborn", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "10116": {
+      "name": "Immortal Phoenix Levarza", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10122": {
+      "name": "Lava", 
+      "element": "fire", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "10123": {
+      "name": "Fire Knight Lava", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "10124": {
+      "name": "Fire God Lava", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "10125": {
+      "name": "Sacred Flame Lava", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "10126": {
+      "name": "Phoenix Wings Lava", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10127": {
+      "name": "Ignis Vestae Lava", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "10152": {
+      "name": "Lancia", 
+      "element": "fire", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "10153": {
+      "name": "Hot Chef Lancia", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "10154": {
+      "name": "Head Chef Lancia", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "10155": {
+      "name": "Ace Chef Lancia", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "10162": {
+      "name": "Lorand", 
+      "element": "fire", 
+      "rarity": 3, 
+      "cost": 7 
+   },
+   "10163": {
+      "name": "Professor Lorand", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "10164": {
+      "name": "Master Lorand", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "10165": {
+      "name": "Taskmaster Lorand", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "10212": {
+      "name": "Drake Chief Aisha", 
+      "element": "fire", 
+      "rarity": 3, 
+      "cost": 7 
+   },
+   "10213": {
+      "name": "Drake Lord Aisha", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "10214": {
+      "name": "Drake Queen Aisha", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "10215": {
+      "name": "Drake Angel Aisha", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "10253": {
+      "name": "Red Axe Michele", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "10254": {
+      "name": "Lotus Axe Michele", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 13 
+   },
+   "10255": {
+      "name": "Goddess Axe Michele", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 23 
+   },
+   "10256": {
+      "name": "Wildfire Lotus Michele", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10257": {
+      "name": "Vesta Padma Michele", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "10273": {
+      "name": "Homusubi", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "10274": {
+      "name": "Kagutsuchi", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "10275": {
+      "name": "Bordebegia", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 25 
+   },
+   "10283": {
+      "name": "War Demon Vishra", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "10284": {
+      "name": "Rakshasa Vishra", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "10285": {
+      "name": "Rakshasa Lord Vishra", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "10286": {
+      "name": "Unleashed Ravana Vishra", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10333": {
+      "name": "Red Slash Farlon", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "10334": {
+      "name": "Red Blade Farlon", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "10335": {
+      "name": "Red Swordsman Farlon", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "10336": {
+      "name": "Crimson Phoenix Farlon", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10363": {
+      "name": "Fire Step Ramna", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "10364": {
+      "name": "Fire Dance Ramna", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "10365": {
+      "name": "Fire Samba Ramna", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "10366": {
+      "name": "Siva Afi Ramna", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10373": {
+      "name": "Dark Arts Dia", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "10374": {
+      "name": "Dark Princess Dia", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "10375": {
+      "name": "Inferno Princess Dia", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "10443": {
+      "name": "Luther", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "10444": {
+      "name": "Defiant Luther", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "10445": {
+      "name": "Defiant God Luther", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "10463": {
+      "name": "Bodyguard Darvanshel", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "10464": {
+      "name": "Protector Darvanshel", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "10465": {
+      "name": "Guardian Darvanshel", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "10466": {
+      "name": "Flare Paladin Darvanshel", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10493": {
+      "name": "Emperor Orwen", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "10494": {
+      "name": "Divine Emperor Orwen", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "10495": {
+      "name": "God Emperor Orwen", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "10503": {
+      "name": "Fire Witch Ulkina", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "10504": {
+      "name": "Fire Dragoon Ulkina", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "10505": {
+      "name": "Fire Goddess Ulkina", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "10543": {
+      "name": "Ember Elder Fiora", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "10544": {
+      "name": "Ember Sage Fiora", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "10545": {
+      "name": "Ember Charm Fiora", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "10553": {
+      "name": "Phoenix Knight Arus", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "10554": {
+      "name": "Phoenix Emperor Arus", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "10555": {
+      "name": "Phoenix God Arus", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "10556": {
+      "name": "Milcham Nova Arus", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10557": {
+      "name": "Supreme Chol Arus", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "10583": {
+      "name": "Gilded Armor Vanberk", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "10584": {
+      "name": "Blaze Armor Vanberk", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "10585": {
+      "name": "Pyre Aegis Vanberk", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "10594": {
+      "name": "Scorching Alpha", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "10595": {
+      "name": "Smoldering King Alpha", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "10596": {
+      "name": "Brimstone Emperor Alpha", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10604": {
+      "name": "Burning Pike Claire", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "10605": {
+      "name": "Volcanic Pike Claire", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "10606": {
+      "name": "Magma Twin-Pike Claire", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10607": {
+      "name": "Crimson Knight Claire", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "10634": {
+      "name": "Crimson Dragon Regrard", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "10635": {
+      "name": "Fire Breathing Volarda", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "10636": {
+      "name": "Inferno Wings Magnazorda", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10644": {
+      "name": "Pyro Spin Ruby", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "10645": {
+      "name": "Pyro Revolution Ruby", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "10646": {
+      "name": "Phoenix Torque Ruby", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10647": {
+      "name": "Inferno Revolution Ruby", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "10664": {
+      "name": "Flame Rifle Bestie", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "10665": {
+      "name": "Blaze Rifle Bestie", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "10666": {
+      "name": "Inferno Rifle Bestie", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "10674": {
+      "name": "Strong Flame Griff", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "10675": {
+      "name": "Mighty Blaze Griff", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "10676": {
+      "name": "Indomitable Flare Griff", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "10677": {
+      "name": "Furious General Griff", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "10684": {
+      "name": "Dark Fire Rineth", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "10685": {
+      "name": "Igneous Stone Rineth", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "10686": {
+      "name": "Phosphor Crystal Rineth", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "10734": {
+      "name": "Flame Demon Adel", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "10735": {
+      "name": "Ember Hellion Adel", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "10736": {
+      "name": "Pyro Archfiend Adel", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "10737": {
+      "name": "Blazing Emperor Adel", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "10754": {
+      "name": "War Fire Avant", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "10755": {
+      "name": "Strife Blaze Avant", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "10756": {
+      "name": "Ardent Dawn Avant", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "10757": {
+      "name": "Undying Flame Avant", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "10774": {
+      "name": "Lava Beast Vermilion", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "10775": {
+      "name": "Fiend Master Vermilion", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "10776": {
+      "name": "Rider Empress Vermilion", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "10794": {
+      "name": "Fire Rod Limera", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "10795": {
+      "name": "Flame Staff Limera", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "10796": {
+      "name": "Volcanic Scepter Limera", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "10804": {
+      "name": "Hot Metal Gildorf", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "10805": {
+      "name": "Scalding Iron Gildorf", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "10806": {
+      "name": "Scorching Steel Gildorf", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "10824": {
+      "name": "Inferno Berdette", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "10825": {
+      "name": "Hades Flame Berdette", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "10826": {
+      "name": "Tartarus Blaze Berdette", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "10846": {
+      "name": "Mythic Kulyuk", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "10847": {
+      "name": "Fabled Emperor Kulyuk", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "10864": {
+      "name": "Intense Flame Golzo", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "10865": {
+      "name": "Furious Blaze Golzo", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "10866": {
+      "name": "Vehement Pyre Golzo", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "10884": {
+      "name": "Red Witch Shelly", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "10885": {
+      "name": "Scarlet Arts Shelly", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "10886": {
+      "name": "Garnet Sorceress Shelly", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "10896": {
+      "name": "Ardent Monk Rengaku", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "10897": {
+      "name": "Dancing Flames Rengaku", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "10916": {
+      "name": "Wicked Warrior Shura", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "10917": {
+      "name": "Heavenly Rift Shura", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "10936": {
+      "name": "Parch Misfit Malef", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "10937": {
+      "name": "Torch Eccentric Malef", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "10946": {
+      "name": "Dragon Warrior Lyonesse", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "10947": {
+      "name": "Blazing Dragon Lyonesse", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "10976": {
+      "name": "Shining Courage Alessa", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "10977": {
+      "name": "Brave Leader Alessa", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "10996": {
+      "name": "Crimson Fist Glenn", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "10997": {
+      "name": "Scorching Fang Glenn", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "11016": {
+      "name": "Blazing Chain Barbara", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "11017": {
+      "name": "Pyro Flail Barbara", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "11036": {
+      "name": "Armored Flame Valen", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "11037": {
+      "name": "Triumphant Blaze Valen", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "11046": {
+      "name": "Purifying Flame Rugahr", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "11047": {
+      "name": "Infernal Pyre Rugahr", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "11056": {
+      "name": "Dragon Demon Barion", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "11057": {
+      "name": "Draconic Emperor Barion", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "11066": {
+      "name": "Ardent Empress Agnia", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "11067": {
+      "name": "Blazing Admonition Agnia", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "11096": {
+      "name": "Divine Phoenix", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "11097": {
+      "name": "Sacred Ashes Jakra", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "11116": {
+      "name": "Vengeful Sword Amus", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "11117": {
+      "name": "Courageous Blade Amus", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "11146": {
+      "name": "Blazing Dragoon Ludero", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "11147": {
+      "name": "Inferno Grandeur Ludero", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "11166": {
+      "name": "Disastrous War Zegstia", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "11167": {
+      "name": "Imperial Ruin Zegstia", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "20092": {
+      "name": "Undine", 
+      "element": "water", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "20093": {
+      "name": "Siren", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "20094": {
+      "name": "Meltia", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "20095": {
+      "name": "Aqua Goddess Abel", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "20102": {
+      "name": "Knight Sergio", 
+      "element": "water", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "20103": {
+      "name": "Ice Ruler Sergio", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "20104": {
+      "name": "Ice Knight Sergio", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 13 
+   },
+   "20105": {
+      "name": "Ice Angel Sergio", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "20112": {
+      "name": "Leviathan", 
+      "element": "water", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "20113": {
+      "name": "Loch Ness", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "20114": {
+      "name": "Malnaplis", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "20115": {
+      "name": "Felneus", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "20122": {
+      "name": "Captain Mega", 
+      "element": "water", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "20123": {
+      "name": "War Captain Mega", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "20124": {
+      "name": "Commander Mega", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "20125": {
+      "name": "Sea King Mega", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "20126": {
+      "name": "Ocean Conqueror Mega", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "20152": {
+      "name": "Elimo", 
+      "element": "water", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "20153": {
+      "name": "Royal Elimo", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "20154": {
+      "name": "Genius Elimo", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "20155": {
+      "name": "Wise Mage Elimo", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "20156": {
+      "name": "Leviathan Sage Elimo", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "20157": {
+      "name": "Salacia Persei Elimo", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "20162": {
+      "name": "Dean", 
+      "element": "water", 
+      "rarity": 3, 
+      "cost": 7 
+   },
+   "20163": {
+      "name": "Ice Mage Dean", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "20164": {
+      "name": "Ice Wizard Dean", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "20165": {
+      "name": "Ice Master Dean", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "20212": {
+      "name": "Twin Gem Rickel", 
+      "element": "water", 
+      "rarity": 3, 
+      "cost": 7 
+   },
+   "20213": {
+      "name": "Twin Flash Rickel", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "20214": {
+      "name": "Twin Shot Rickel", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "20215": {
+      "name": "Twin Arms Rickel", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "20217": {
+      "name": "Divine Revolvers Millie", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "20253": {
+      "name": "Polar Angel Tiara", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "20254": {
+      "name": "Ice Apostle Tiara", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 13 
+   },
+   "20255": {
+      "name": "Final Apostle Tiara", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 23 
+   },
+   "20273": {
+      "name": "Ice Keep Copra", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "20274": {
+      "name": "Ice Tower Tesla", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "20275": {
+      "name": "Ice Fortress Oulu", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 25 
+   },
+   "20276": {
+      "name": "Ice Bastion Zeldeus", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "20283": {
+      "name": "Hail Bot Reeze", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "20284": {
+      "name": "Hail Mech Reeze", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "20285": {
+      "name": "Hail Gigantron Reeze", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "20286": {
+      "name": "Hailstorm Armor Reeze", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "20323": {
+      "name": "Snow Cub Signas", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "20324": {
+      "name": "Snow Lion Signas", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "20325": {
+      "name": "Snow Queen Signas", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "20326": {
+      "name": "Blizzard Fang Signas", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "20327": {
+      "name": "Alpha Leader Signas", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "20353": {
+      "name": "Spear Fist Raydn", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "20354": {
+      "name": "Spear Arms Raydn", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "20355": {
+      "name": "Spear King Raydn", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "20356": {
+      "name": "Icicle Lance Raydn", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "20363": {
+      "name": "Azure Blade Lucina", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "20364": {
+      "name": "Azure Warrior Lucina", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "20365": {
+      "name": "Azure Goddess Lucina", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "20366": {
+      "name": "Aqua Pura Lucina", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "20433": {
+      "name": "Phee", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "20434": {
+      "name": "Tyrant Phee", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "20435": {
+      "name": "Tyrant Goddess Phee", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "20453": {
+      "name": "Dark Axe Mariudeth", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "20454": {
+      "name": "Axe King Mariudeth", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "20455": {
+      "name": "Axe God Mariudeth", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "20473": {
+      "name": "Prince Arius", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "20474": {
+      "name": "Divine Prince Arius", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "20475": {
+      "name": "Ice God Arius", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "20483": {
+      "name": "Aquamancer Kuhla", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "20484": {
+      "name": "Aqua Ruler Kuhla", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "20485": {
+      "name": "Aqua Goddess Kuhla", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "20513": {
+      "name": "Sea Pirate Eve", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "20514": {
+      "name": "Pirate Empress Eve", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "20515": {
+      "name": "Pirate Goddess Eve", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "20533": {
+      "name": "Disciple Belfura", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "20534": {
+      "name": "Slayer Belfura", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "20535": {
+      "name": "Massacre God Belfura", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "20537": {
+      "name": "Glacial Wings Belfura", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "20553": {
+      "name": "Alchemist Rigness", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "20554": {
+      "name": "Synthesizer Rigness", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "20555": {
+      "name": "Magnum Opus Rigness", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "20564": {
+      "name": "Piercing Tazer", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "20565": {
+      "name": "Aqua Slash Tazer", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "20566": {
+      "name": "Cyclone Emperor Tazer", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "20567": {
+      "name": "Gallant Spirit Tazer", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "20574": {
+      "name": "Frozen Blade Colt", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "20575": {
+      "name": "Arctic Blade Colt", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "20576": {
+      "name": "Glacier Twin-Blade Colt", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "20577": {
+      "name": "Azure Wanderer Colt", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "20604": {
+      "name": "Cerulean Dragon Rubeus", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "20605": {
+      "name": "Ice Breathing Rigdila", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "20606": {
+      "name": "Tundra Scales Zerafalgar", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "20614": {
+      "name": "Cascade Pearl Medina", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "20615": {
+      "name": "Ocean Pearl Medina", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "20616": {
+      "name": "Tidal Nacre Medina", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "20617": {
+      "name": "Aquamarine Knight Medina", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "20624": {
+      "name": "Lance Knight Vernil", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "20625": {
+      "name": "Lance Templar Vernil", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "20626": {
+      "name": "Lance Champion Vernil", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "20634": {
+      "name": "Lapis Princess Iris", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "20635": {
+      "name": "Azure Queen Iris", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "20636": {
+      "name": "Indigo Soul Iris", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "20637": {
+      "name": "Oceanic Mirror Iris", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "20644": {
+      "name": "Aqua Wand Quartz", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "20645": {
+      "name": "Waterfall Staff Quartz", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "20646": {
+      "name": "Wave Breaker Quartz", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "20674": {
+      "name": "Charming Threat Savia", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "20675": {
+      "name": "Beautiful Menace Savia", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "20676": {
+      "name": "Glamorous Peril Savia", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "20677": {
+      "name": "Alluring Empress Savia", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "20694": {
+      "name": "Frost Prisoner Lune", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "20695": {
+      "name": "Hail Breakout Lune", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "20696": {
+      "name": "Icicle Mirror Lune", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "20704": {
+      "name": "Spring Flower Piany", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "20705": {
+      "name": "Fountain Blossom Piany", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "20706": {
+      "name": "Sacred Lotus Piany", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "20724": {
+      "name": "Ice Knight Farzen", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "20725": {
+      "name": "Hail Shadow Farzen", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "20726": {
+      "name": "Frozen Typhoon Farzen", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "20734": {
+      "name": "Drake Armor Klaus", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "20735": {
+      "name": "Dragon Shell Klaus", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "20736": {
+      "name": "Wyvern Wings Klaus", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "20754": {
+      "name": "Inferno Sareas", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "20755": {
+      "name": "Hades Wave Sareas", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "20756": {
+      "name": "Tartarus Flood Sareas", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "20774": {
+      "name": "Sea Nymph Averus", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "20775": {
+      "name": "Ocean Jewel Averus", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "20776": {
+      "name": "Nereides Jewel Averus", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "20796": {
+      "name": "Blue Purity Vern", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "20797": {
+      "name": "Absolute Zero Vern", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "20804": {
+      "name": "Frost Harp Soleil", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "20805": {
+      "name": "Ice Melody Soleil", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "20806": {
+      "name": "Arctic Virtuoso Soleil", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "20826": {
+      "name": "Indigo Charm Azami", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "20827": {
+      "name": "Dark Allure Azami", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "20836": {
+      "name": "Cerulean Knight Stein", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "20837": {
+      "name": "Sapphire Noble Stein", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "20856": {
+      "name": "Decay Demon Melord", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "20857": {
+      "name": "Sage God Melord", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "20876": {
+      "name": "Ocean Slasher Holia", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "20877": {
+      "name": "Torrential Scar Holia", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "20886": {
+      "name": "Azure Princess Mariela", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "20887": {
+      "name": "Dragon Mother Mariela", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "20906": {
+      "name": "Just Commander Zalts", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "20907": {
+      "name": "Great General Zalts", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "20926": {
+      "name": "Frigid Blade Asto", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "20927": {
+      "name": "Sapphire Dragon Asto", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "20946": {
+      "name": "Weeping Ice Camilla", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "20947": {
+      "name": "Hailing Blades Camilla", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "20966": {
+      "name": "Holy Justice Hugh", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "20967": {
+      "name": "Chain Magister Hugh", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "20976": {
+      "name": "Bubbling Spring Azalea", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "20977": {
+      "name": "Crystalline Blue Azalea", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "20986": {
+      "name": "Calamity Demon Amu Yunos", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "20987": {
+      "name": "Cosmic Being Amu Yunos", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "20996": {
+      "name": "Marine Emperor Zeleste", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "20997": {
+      "name": "Overflowing Sea Zeleste", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "21006": {
+      "name": "Divine Wolf", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "21007": {
+      "name": "Sacred Judge Isniel", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "21036": {
+      "name": "Ice Lord Arsom", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "21037": {
+      "name": "Piercing Oath Arsom", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "21046": {
+      "name": "Sea Fauna King Vaisal", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "21047": {
+      "name": "Oceanic Emperor Vaisal", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "21086": {
+      "name": "Pure Disciple Lumis", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "21087": {
+      "name": "Winged Mercy Lumis", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "21106": {
+      "name": "Heavenly Ties Wintia", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "21107": {
+      "name": "Loving Bonds Wintia", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "30092": {
+      "name": "Dryad", 
+      "element": "earth", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "30093": {
+      "name": "High Elf", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "30094": {
+      "name": "Lemenara", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "30095": {
+      "name": "Elf Queen Arbonella", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "30102": {
+      "name": "Princess Lidith", 
+      "element": "earth", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "30103": {
+      "name": "Queen Lidith", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "30104": {
+      "name": "Empress Lidith", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 13 
+   },
+   "30105": {
+      "name": "Goddess Lidith", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "30112": {
+      "name": "Great Tree Alneu", 
+      "element": "earth", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "30113": {
+      "name": "World Tree Altro", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "30114": {
+      "name": "God Tree Eltri", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "30115": {
+      "name": "Alpha Tree Altri", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "30116": {
+      "name": "Gaia Tree Vertri", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30122": {
+      "name": "Gunner Douglas", 
+      "element": "earth", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "30123": {
+      "name": "Gun King Douglas", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "30124": {
+      "name": "Gun God Douglas", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "30125": {
+      "name": "Holy Arms Douglas", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "30152": {
+      "name": "Pixy Leore", 
+      "element": "earth", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "30153": {
+      "name": "Pixy Royal Leore", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "30154": {
+      "name": "Pixy King Leore", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "30155": {
+      "name": "Pixy Lord Leore", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "30162": {
+      "name": "Edea", 
+      "element": "earth", 
+      "rarity": 3, 
+      "cost": 7 
+   },
+   "30163": {
+      "name": "Earth Knight Edea", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "30164": {
+      "name": "Mother Earth Edea", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "30165": {
+      "name": "Gaia Armor Edea", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "30166": {
+      "name": "Flora Aegis Edea", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30167": {
+      "name": "Graceful Ruler Edea", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "30212": {
+      "name": "Twins Il & Mina", 
+      "element": "earth", 
+      "rarity": 3, 
+      "cost": 7 
+   },
+   "30213": {
+      "name": "Earthly Il & Mina", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "30214": {
+      "name": "Gemini Il & Mina", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "30215": {
+      "name": "Gaians Il & Mina", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "30253": {
+      "name": "Scar Blade Zelban", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "30254": {
+      "name": "Blade Hero Zelban", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 13 
+   },
+   "30255": {
+      "name": "Blade Emperor Zelban", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 23 
+   },
+   "30273": {
+      "name": "Golem", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "30274": {
+      "name": "Great Golem", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "30275": {
+      "name": "Gravion", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 25 
+   },
+   "30276": {
+      "name": "Colossal Vars", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30283": {
+      "name": "Pugilist Dilma", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "30284": {
+      "name": "Champ Fist Dilma", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "30285": {
+      "name": "Noble Fist Dilma", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "30313": {
+      "name": "Havoc Girl Luly", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "30314": {
+      "name": "Havoc Queen Luly", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "30315": {
+      "name": "Havoc God Luly", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "30316": {
+      "name": "Mayhem Empress Luly", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30343": {
+      "name": "Battle Girl Ophelia", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "30344": {
+      "name": "War Girl Ophelia", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "30345": {
+      "name": "War Queen Ophelia", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "30346": {
+      "name": "Cyclonic Heroine Ophelia", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30353": {
+      "name": "Iron Shield Darvan", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "30354": {
+      "name": "Steel Shield Darvan", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "30355": {
+      "name": "Impenetrable Darvan", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "30423": {
+      "name": "Nalmika", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "30424": {
+      "name": "Ivy Nalmika", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "30425": {
+      "name": "Ivy Goddess Nalmika", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "30443": {
+      "name": "Great Thief Zelnite", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "30444": {
+      "name": "Noble Thief Zelnite", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "30445": {
+      "name": "Thief God Zelnite", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "30446": {
+      "name": "Legendary Thief Zelnite", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30447": {
+      "name": "Chivalrous Thief Zelnite", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "30463": {
+      "name": "Flora Princess Faris", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "30464": {
+      "name": "Flora Queen Faris", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "30465": {
+      "name": "Flora Goddess Faris", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "30473": {
+      "name": "Forest Guardian Tia", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "30474": {
+      "name": "Divine Guardian Tia", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "30475": {
+      "name": "Guardian Goddess Tia", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "30503": {
+      "name": "Spirit Ruler Lucca", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "30504": {
+      "name": "Phantom Ruler Lucca", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "30505": {
+      "name": "Deity Ruler Lucca", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "30513": {
+      "name": "Green Dragon Vael", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "30514": {
+      "name": "Royal Dragon Farvnil", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "30515": {
+      "name": "Dragon God Ragshelm", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "30516": {
+      "name": "Immortal Dragon Ragshelm", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30517": {
+      "name": "Divine Dragon Ragzbyul", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "30543": {
+      "name": "Floret Petal Rosetta", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "30544": {
+      "name": "Floret Queen Rosetta", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "30545": {
+      "name": "Jewel Floret Rosetta", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "30546": {
+      "name": "Floral Princess Rosetta", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30554": {
+      "name": "Thorned Tora", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "30555": {
+      "name": "Vine Queen Tora", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "30556": {
+      "name": "Rose Empress Tora", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30564": {
+      "name": "Beryl Edge Quaid", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "30565": {
+      "name": "Valiant Edge Quaid", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "30566": {
+      "name": "Sylvan Excalibur Quaid", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30567": {
+      "name": "Heroic Leader Quaid", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "30594": {
+      "name": "Hermit Wizard Oguro", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "30595": {
+      "name": "Mountain Sage Oguro", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "30596": {
+      "name": "Gaia Sennin Oguro", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30604": {
+      "name": "Gale Piercing Dion", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "30605": {
+      "name": "Hurricane Cutter Dion", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "30606": {
+      "name": "Cyclonic Blades Dion", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30607": {
+      "name": "Parallel Tempest Dion", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "30614": {
+      "name": "Swift Katana Toutetsu", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "30615": {
+      "name": "Agile Katana Toutetsu", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "30616": {
+      "name": "Feral Katana Toutetsu", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "30624": {
+      "name": "Green Sparkle Libera", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "30625": {
+      "name": "Jade Shimmer Libera", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "30626": {
+      "name": "Emerald Radiance Libera", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "30627": {
+      "name": "Flourished Bloom Libera", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "30634": {
+      "name": "Earth Blade Duran", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "30635": {
+      "name": "Terra Broadsword Duran", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "30636": {
+      "name": "Quatre Marinus Duran", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "30674": {
+      "name": "Pure Lady Cyan", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "30675": {
+      "name": "Merciful Dame Cyan", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "30676": {
+      "name": "Gracious Madam Cyan", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "30684": {
+      "name": "Regal Sword Dolk", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "30685": {
+      "name": "Imperial Blade Dolk", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "30686": {
+      "name": "Heavenly Claymore Dolk", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "30694": {
+      "name": "Demon Pike Drevas", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "30695": {
+      "name": "Emerald Pike Drevas", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "30696": {
+      "name": "Malachite Pike Drevas", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "30704": {
+      "name": "War Soldier Estelle", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "30705": {
+      "name": "Laureate Heroine Estelle", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "30706": {
+      "name": "Peacock Xena Estelle", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "30714": {
+      "name": "Snake Chord Isterio", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "30715": {
+      "name": "Cobra Tune Isterio", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "30716": {
+      "name": "Venomous Echo Isterio", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "30734": {
+      "name": "Inferno Dure", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "30735": {
+      "name": "Hades Might Dure", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "30736": {
+      "name": "Tartarus Demolition Dure", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "30754": {
+      "name": "Holy Beast Belardo", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "30755": {
+      "name": "Grieving Beast Belhem", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "30756": {
+      "name": "Tempest Dragon Bestalg", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "30774": {
+      "name": "Pink Thorns Leona", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "30775": {
+      "name": "Colorful Spikes Leona", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "30776": {
+      "name": "Natural Whip Leona", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "30786": {
+      "name": "Perpetual Goddess Felice", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "30787": {
+      "name": "Eternal Goddess Felice", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "30796": {
+      "name": "Green Fang Daze", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "30797": {
+      "name": "Emerald Tusk Daze", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "30816": {
+      "name": "Emerald Knight Hisui", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "30817": {
+      "name": "Heavenly Spiral Hisui", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "30836": {
+      "name": "Cursed Princess Rozalia", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "30837": {
+      "name": "Wind Princess Rozalia", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "30846": {
+      "name": "Wild Edge Serge", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "30847": {
+      "name": "Silva Khopesh Serge", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "30866": {
+      "name": "Jade Commander Gyras", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "30867": {
+      "name": "Victorious General Gyras", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "30876": {
+      "name": "Emerald Axe Lanza", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "30877": {
+      "name": "Malachite Steel Lanza", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "30896": {
+      "name": "Alliance Leader Freed", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "30897": {
+      "name": "Viridian Flag Freed", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "30916": {
+      "name": "Magical Host Mariletta", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "30917": {
+      "name": "Mademoiselle Mariletta", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "30926": {
+      "name": "Watchful Eyes Baro", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "30927": {
+      "name": "Bizarre Sight Baro", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "30946": {
+      "name": "Nature Demon Mordlim", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "30947": {
+      "name": "Sacred Flora Mordlim", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "30956": {
+      "name": "Verdant Emperor Daros", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "30957": {
+      "name": "Boundless Peaks Daros", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "30966": {
+      "name": "Fickle Flower Phileine", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "30967": {
+      "name": "Final Petal Phileine", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "30986": {
+      "name": "Enchanted Armor Barvars", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "30987": {
+      "name": "Divine Armor", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "30996": {
+      "name": "Sea Princess Eriana", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "30997": {
+      "name": "Cerulean Grace Eriana", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "31006": {
+      "name": "Justice Blade Nagid", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "31007": {
+      "name": "Weald Guardian Nagid", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "31036": {
+      "name": "Quaking Hammer Gandrei", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "31037": {
+      "name": "Booming Charge Gandrei", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "31066": {
+      "name": "Soul Spiral Limilnate", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "31067": {
+      "name": "Endless Cycle Limilnate", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "40092": {
+      "name": "Thunderbird", 
+      "element": "thunder", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "40093": {
+      "name": "Great Falcon Ziz", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "40094": {
+      "name": "Zazabis", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "40095": {
+      "name": "Bolt Phoenix Ardas", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "40102": {
+      "name": "Sky Knight Falma", 
+      "element": "thunder", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "40103": {
+      "name": "Sky King Falma", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "40104": {
+      "name": "Sky Legend Falma", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 13 
+   },
+   "40105": {
+      "name": "Sky God Falma", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "40112": {
+      "name": "Behemoth", 
+      "element": "thunder", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "40113": {
+      "name": "King Behemoth", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "40114": {
+      "name": "Alpha Behemoth", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "40115": {
+      "name": "Omega Behemoth", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "40117": {
+      "name": "Ultimate Behemoth", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "40122": {
+      "name": "Emilia", 
+      "element": "thunder", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "40123": {
+      "name": "Princess Emilia", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "40124": {
+      "name": "Goddess Emilia", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "40125": {
+      "name": "Holy Shock Emilia", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "40152": {
+      "name": "Tinkerer Elulu", 
+      "element": "thunder", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "40153": {
+      "name": "Inventor Elulu", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "40154": {
+      "name": "Bolt Mallet Elulu", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "40155": {
+      "name": "Tesla Club Elulu", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "40162": {
+      "name": "Loch", 
+      "element": "thunder", 
+      "rarity": 3, 
+      "cost": 7 
+   },
+   "40163": {
+      "name": "Shock Bow Loch", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "40164": {
+      "name": "Zeus Bow Loch", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "40165": {
+      "name": "Heaven's Bow Loch", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "40166": {
+      "name": "Celestial Archer Loch", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "40167": {
+      "name": "Divine Storm Loch", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "40212": {
+      "name": "Bolt Pike Amy", 
+      "element": "thunder", 
+      "rarity": 3, 
+      "cost": 7 
+   },
+   "40213": {
+      "name": "Bolt Knight Amy", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "40214": {
+      "name": "Bolt Goddess Amy", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "40215": {
+      "name": "Heaven's Bolt Amy", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "40253": {
+      "name": "Drakeborn Lodin", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "40254": {
+      "name": "Drake God Lodin", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 13 
+   },
+   "40255": {
+      "name": "Empyreal Drake Lodin", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 23 
+   },
+   "40273": {
+      "name": "Sky Angel Kushra", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "40274": {
+      "name": "Rebel Angel Elsel", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "40275": {
+      "name": "Havoc Angel Ronel", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 25 
+   },
+   "40276": {
+      "name": "Valkyrie Archangel Griel", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "40283": {
+      "name": "Shock Mage Rashil", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "40284": {
+      "name": "Bolt Magus Rashil", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "40285": {
+      "name": "Sky Mage Rashil", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "40313": {
+      "name": "Gold Warrior Rina", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "40314": {
+      "name": "Gold Knight Rina", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "40315": {
+      "name": "Gold Queen Rina", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "40316": {
+      "name": "Gilded Dogma Rina", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "40343": {
+      "name": "Mech Arms Grybe", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "40344": {
+      "name": "Mech Cannon Grybe", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "40345": {
+      "name": "Mech God Grybe", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "40346": {
+      "name": "Optimum Mecha Grybe", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "40353": {
+      "name": "Sage Bran", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "40354": {
+      "name": "Lightning Sage Bran", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "40355": {
+      "name": "Blaze Guru Bran", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "40423": {
+      "name": "Uda", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "40424": {
+      "name": "Crusher Uda", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "40425": {
+      "name": "Crusher God Uda", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "40443": {
+      "name": "Thunder Beast Ahvel", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "40444": {
+      "name": "Thunder God Esna", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "40445": {
+      "name": "Beast God Exvehl", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "40446": {
+      "name": "Immortal Beast Sargavel", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "40463": {
+      "name": "Lead Engineer Garnan", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "40464": {
+      "name": "Head Engineer Garnan", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "40465": {
+      "name": "God Engineer Garnan", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "40473": {
+      "name": "Bolt Gun Rowgen", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "40474": {
+      "name": "Thunder Gun Rowgen", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "40475": {
+      "name": "Lightning Gun Rowgen", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "40493": {
+      "name": "Thunder Whip Orna", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "40494": {
+      "name": "Divine Whip Orna", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "40495": {
+      "name": "Zeus Whip Orna", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "40496": {
+      "name": "Shocking Beauty Orna", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "40503": {
+      "name": "Thunder Guard Shera", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "40504": {
+      "name": "Thunder Sentry Shera", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "40505": {
+      "name": "Thunder Savior Shera", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "40506": {
+      "name": "Fulgor Heroine Shera", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "40507": {
+      "name": "Radiant Guardian Shera", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "40523": {
+      "name": "Dragoon Elder Bargus", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "40524": {
+      "name": "Dragoon Lord Bargus", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "40525": {
+      "name": "Dragoon Soul Bargus", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "40534": {
+      "name": "Admonition Kanon", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "40535": {
+      "name": "Righteous King Kanon", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "40536": {
+      "name": "Heavenly Emperor Kanon", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "40537": {
+      "name": "Divine Law Kanon", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "40544": {
+      "name": "Voltage Cutlass Diana", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "40545": {
+      "name": "Rumbling Cutlass Diana", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "40546": {
+      "name": "Thunderbird Sabre Diana", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "40574": {
+      "name": "Divine Destroyer Rize", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "40575": {
+      "name": "Ruin Herald Rize", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "40576": {
+      "name": "Flaring Massacre Rize", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "40577": {
+      "name": "Eternal Radiance Rize", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "40584": {
+      "name": "Sound Thunder Balgran", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "40585": {
+      "name": "Crushing Thunder Balgran", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "40586": {
+      "name": "Roaring Crash Balgran", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "40587": {
+      "name": "Rumbling Blade Balgran", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "40594": {
+      "name": "Shadow Scroll Kagura", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "40595": {
+      "name": "Illusion Scroll Kagura", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "40596": {
+      "name": "Dragon Scroll Kagura", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "40604": {
+      "name": "Thunder Pole Rhoa", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "40605": {
+      "name": "Lightning Rod Rhoa", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "40606": {
+      "name": "Roaring Staff Rhoa", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "40607": {
+      "name": "Inquisitive Soul Rhoa", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "40614": {
+      "name": "Bolt Axe Mahalu", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "40615": {
+      "name": "Violet Thunder Mahalu", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "40616": {
+      "name": "Storm Chieftess Mahalu", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "40644": {
+      "name": "Yellow Dragon Belzeft", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "40645": {
+      "name": "Lightning Rain Zoldark", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "40646": {
+      "name": "Electrical Storm Eldora", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "40664": {
+      "name": "Shock Fist Rahgan", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "40665": {
+      "name": "Bolt Master Rahgan", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "40666": {
+      "name": "Thunder Champion Rahgan", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "40674": {
+      "name": "Blue Spark Reud", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "40675": {
+      "name": "Cobalt Thunder Reud", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "40676": {
+      "name": "Prism Lightning Reud", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "40684": {
+      "name": "Twin Bolts Julius", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "40685": {
+      "name": "Dual Current Julius", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "40686": {
+      "name": "Double Voltage Julius", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "40694": {
+      "name": "Magnetic Lady Lafiel", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "40695": {
+      "name": "Electric Beauty Lafiel", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "40696": {
+      "name": "Galvanic Belle Lafiel", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "40714": {
+      "name": "Inferno Radia", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "40715": {
+      "name": "Hades Stun Radia", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "40716": {
+      "name": "Tartarus Sacrifice Radia", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "40744": {
+      "name": "Mechanized Reddrag", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "40745": {
+      "name": "Solid Frame Dolgrag", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "40746": {
+      "name": "Steel Automaton Voldoga", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "40766": {
+      "name": "Thunder Punisher Silas", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "40767": {
+      "name": "Lightning Menace Silas", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "40774": {
+      "name": "Bolt Singe Pamela", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "40775": {
+      "name": "Lightning Fury Pamela", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "40776": {
+      "name": "Supreme Thunder Pamela", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "40786": {
+      "name": "Phoenix Thunder Rayla", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "40787": {
+      "name": "Bennu Edge Rayla", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "40816": {
+      "name": "Thunder Knight Fizz", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "40817": {
+      "name": "Flashing Thief Fizz", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "40826": {
+      "name": "Lion Demon Viktor", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "40827": {
+      "name": "Roaring Thunder Viktor", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "40856": {
+      "name": "Flashing Knight Licht", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "40857": {
+      "name": "Gracious Champion Licht", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "40866": {
+      "name": "Golden Magic Eleanor", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "40867": {
+      "name": "Auric Echo Eleanor", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "40876": {
+      "name": "Thunder General Ewan", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "40877": {
+      "name": "Magnanimous Bolt Ewan", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "40886": {
+      "name": "Odd Character Zora", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "40887": {
+      "name": "Bitter Manipulator Zora", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "40896": {
+      "name": "Lambent Flicker Cleria", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "40897": {
+      "name": "Furious Thunder Cleria", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "40906": {
+      "name": "Tech Armor Beiorg", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "40907": {
+      "name": "Celestial Plate Beiorg", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "40916": {
+      "name": "Heavenly Empress Ragra", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "40917": {
+      "name": "Roaring Skies Ragra", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "40936": {
+      "name": "Evil Corpse Jireid", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "40937": {
+      "name": "Colossal Spirit Jireid", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "40946": {
+      "name": "Divine Machine", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "40947": {
+      "name": "Sacred Shift Becstain", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "40976": {
+      "name": "Adamant Victory Marlo", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "40977": {
+      "name": "Tenacious Charge Marlo", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "40986": {
+      "name": "Justice Blade Razak", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "40987": {
+      "name": "Storm Guardian Razak", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "41016": {
+      "name": "Sealed Thunder Ordine", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "41017": {
+      "name": "Killer Bolt Ordine", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "41036": {
+      "name": "Celestial Enigma Daltisk", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "41037": {
+      "name": "True Revelation Daltisk", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "50082": {
+      "name": "Valkyrie", 
+      "element": "light", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "50083": {
+      "name": "Sky Hero Athena", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "50084": {
+      "name": "Legendary Jona ", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "50085": {
+      "name": "Sky Goddess Raquel", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "50092": {
+      "name": "Cowboy Heidt", 
+      "element": "light", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "50093": {
+      "name": "Holy Shot Heidt", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "50094": {
+      "name": "Pistol God Heidt", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 13 
+   },
+   "50095": {
+      "name": "Sacred Gunner Heidt", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "50102": {
+      "name": "Wyvern", 
+      "element": "light", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "50103": {
+      "name": "Bahamut", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "50104": {
+      "name": "Rameldria", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "50105": {
+      "name": "Duelmex", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "50106": {
+      "name": "Supreme Dragon Elderex", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "50112": {
+      "name": "Knight Will", 
+      "element": "light", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "50113": {
+      "name": "Holy Knight Will", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "50114": {
+      "name": "God Knight Will", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "50115": {
+      "name": "Holy Guard Will", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "50116": {
+      "name": "Angelic Paladin Will", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "50152": {
+      "name": "Knight Aem", 
+      "element": "light", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "50153": {
+      "name": "Champion Aem", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "50154": {
+      "name": "Holy Master Aem", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "50155": {
+      "name": "Ultra Blade Aem", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "50162": {
+      "name": "Eight Blade Sefia", 
+      "element": "light", 
+      "rarity": 3, 
+      "cost": 7 
+   },
+   "50163": {
+      "name": "Blade Storm Sefia", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "50164": {
+      "name": "Blade Queen Sefia", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "50165": {
+      "name": "Holy Blades Sefia", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "50166": {
+      "name": "Angelic Blades Sefia", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "50167": {
+      "name": "Hallowed Dance Sefia", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "50273": {
+      "name": "Legionary Melchio", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "50274": {
+      "name": "Centurion Melchio", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 13 
+   },
+   "50275": {
+      "name": "Legatus Melchio", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 23 
+   },
+   "50276": {
+      "name": "Invictus Xeno Melchio", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "50303": {
+      "name": "White Lebra", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "50304": {
+      "name": "Lubradine", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "50305": {
+      "name": "Leorone", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 25 
+   },
+   "50313": {
+      "name": "Cyborg Lilith", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "50314": {
+      "name": "Cyborg Lilith II", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "50315": {
+      "name": "Terminator Lilith", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "50316": {
+      "name": "Executioner Lilith XTF", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "50317": {
+      "name": "Mechanic Goddess Lilith", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "50383": {
+      "name": "Horseman Sodis", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "50384": {
+      "name": "Cavalryman Sodis", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "50385": {
+      "name": "Guardian Chief Sodis", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "50386": {
+      "name": "Paladin Crusader Sodis", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "50403": {
+      "name": "Light Blade Alyut", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "50404": {
+      "name": "Holy Warrior Alyut", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "50405": {
+      "name": "Divine Light Alyut", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "50406": {
+      "name": "Glorious Crusader Alyut", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "50413": {
+      "name": "Prodigy Themis", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "50414": {
+      "name": "Unflinching Themis", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "50415": {
+      "name": "Worldly Themis", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "50473": {
+      "name": "Zellha", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "50474": {
+      "name": "Ruin Zellha", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "50475": {
+      "name": "Ruin Goddess Zellha", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "50477": {
+      "name": "Torturous Grief Zellha", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "50483": {
+      "name": "Dark Angel Azael", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "50484": {
+      "name": "Wisdom Angel Azael", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "50485": {
+      "name": "Seraph Azael", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "50503": {
+      "name": "Brave Legend Hogar", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "50504": {
+      "name": "Brave King Hogar", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "50505": {
+      "name": "Brave God Hogar", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "50513": {
+      "name": "Mad Knight Narza", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "50514": {
+      "name": "Mad King Narza", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "50515": {
+      "name": "Mad God Narza", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "50583": {
+      "name": "Holy Treasures Yujeh", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "50584": {
+      "name": "Sacred Relics Yujeh", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "50585": {
+      "name": "Rainbow Angel Yujeh", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "50603": {
+      "name": "Royal Edge Priscilla", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "50604": {
+      "name": "Poinsettia Priscilla", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "50605": {
+      "name": "Holy Night Priscilla", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "50643": {
+      "name": "Priestess Elmedia", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "50644": {
+      "name": "High Priestess Elmedia", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "50645": {
+      "name": "Holy Priestess Elmedia", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "50654": {
+      "name": "Larking Kira", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "50655": {
+      "name": "Cavorting King Kira", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "50656": {
+      "name": "Frolic Emperor Kira", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "50657": {
+      "name": "Vexing Monarch Kira", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "50664": {
+      "name": "Noble Sage Fadahl", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "50665": {
+      "name": "Sage King Fadahl", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "50666": {
+      "name": "Radiant Virtue Fadahl", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "50694": {
+      "name": "Spiritual Warrior Raaga", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "50695": {
+      "name": "Supreme Militant Raaga", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "50696": {
+      "name": "Demon Champion Raaga", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "50734": {
+      "name": "Holy Defender Rinon", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "50735": {
+      "name": "Sacred Advocate Rinon", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "50736": {
+      "name": "Resplendent Queen Rinon", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "50737": {
+      "name": "Sublime Divinity Rinon", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "50744": {
+      "name": "Robotic Wings Sixgear", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "50745": {
+      "name": "Cyber Wings Exgear", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "50746": {
+      "name": "Turbo Wings Nemethgear", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "50754": {
+      "name": "Noble Cavalier Krantz", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "50755": {
+      "name": "Honorable Knight Krantz", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "50756": {
+      "name": "Virtuous Champion Krantz", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "50757": {
+      "name": "Glorious Hero Krantz", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "50764": {
+      "name": "Heavenly Lance Nadore", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "50765": {
+      "name": "Celestial Knight Nadore", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "50766": {
+      "name": "Angelic Champion Nadore", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "50814": {
+      "name": "Flash Knight Jed", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "50815": {
+      "name": "Aurora Fiend Jed", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "50816": {
+      "name": "Refulgent Savage Jed", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "50834": {
+      "name": "Light Priestess Charla", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "50835": {
+      "name": "Holy Saint Charla", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "50836": {
+      "name": "Merciful Beacon Charla", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "50864": {
+      "name": "White Dragon Folg", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "50865": {
+      "name": "Gilded Tail Diragaze", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "50866": {
+      "name": "Seraph Wings Kiravel", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "50884": {
+      "name": "Pure Knight Rouche", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "50885": {
+      "name": "Tranquil Moon Rouche", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "50886": {
+      "name": "Lunar Blade Rouche", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "50894": {
+      "name": "Lawful Pride Reihard", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "50895": {
+      "name": "Flawed Principle Reihard", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "50896": {
+      "name": "Dharma Seal Reihard", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "50914": {
+      "name": "Inferno Sirius", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "50915": {
+      "name": "Hades Glare Sirius", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "50916": {
+      "name": "Tartarus Massacre Sirius", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "50917": {
+      "name": "Sacred Emperor Sirius", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "50934": {
+      "name": "Guiding Light Layla", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "50935": {
+      "name": "Virtuous Shimmer Layla", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "50936": {
+      "name": "Untainted Justice Layla", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "50964": {
+      "name": "Holy Minister Astall", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "50965": {
+      "name": "Radiant Sage Astall", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "50966": {
+      "name": "Pious Saint Astall", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "50986": {
+      "name": "Sacred Dragonchild Lara", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "50987": {
+      "name": "Celestial Wings Lara", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "50996": {
+      "name": "Divine General Izuna", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "50997": {
+      "name": "Godly Command Izuna", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "51006": {
+      "name": "Roaring Beast Zekt", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "51007": {
+      "name": "Howling Wolf Zekt", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "51036": {
+      "name": "False Demon Lauda", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "51037": {
+      "name": "Ideal Subject Lauda", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "51046": {
+      "name": "Azure King Garrel", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "51047": {
+      "name": "Brave Emperor Garrel", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "51066": {
+      "name": "Dawn Emperor Agress", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "51067": {
+      "name": "Supreme Emperor Agress", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "51086": {
+      "name": "Lovely Comet Janice", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "51087": {
+      "name": "Angelic Star Janice", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "51106": {
+      "name": "Alien Light Diastima", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "51107": {
+      "name": "Third Eye Diastima", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "51126": {
+      "name": "Emperor Slayer Regil", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "51127": {
+      "name": "Pure General Regil", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "51136": {
+      "name": "Tech Craze Ionia", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "51137": {
+      "name": "Metal Flower Ionia", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "51166": {
+      "name": "Guile Demon Mora", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "51167": {
+      "name": "Glorious Shine Mora", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "51186": {
+      "name": "Holy Crown Linasera", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "51187": {
+      "name": "Graceful Angel Linasera", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "51216": {
+      "name": "Shining Wisdom Solos", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "51217": {
+      "name": "Master Sage Solos", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "51246": {
+      "name": "Divine Dragon", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "51247": {
+      "name": "Sacred Purpose Lukroar", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "51256": {
+      "name": "Sparkling Knight Reseus", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "51257": {
+      "name": "Poised Emperor Reseus", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "51276": {
+      "name": "Noble Guardian Segrud", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "51277": {
+      "name": "Virtuous Paladin Segrud", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "51326": {
+      "name": "Sacred Sword Alan", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "51327": {
+      "name": "Divine Blade Alan", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "51336": {
+      "name": "Divine Vision Amadream", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "51337": {
+      "name": "Intact Champion Amadream", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "60082": {
+      "name": "Vampire", 
+      "element": "dark", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "60083": {
+      "name": "Lich", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "60084": {
+      "name": "Legion", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "60085": {
+      "name": "Dark Lord Zaboeth", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "60092": {
+      "name": "Shida", 
+      "element": "dark", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "60093": {
+      "name": "Garroter Shida", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "60094": {
+      "name": "Executioner Shida", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 13 
+   },
+   "60095": {
+      "name": "Death God Shida", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "60096": {
+      "name": "Omega Demise Shida", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60097": {
+      "name": "Deadly Illusion Shida", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "60102": {
+      "name": "Memetes", 
+      "element": "dark", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "60103": {
+      "name": "Hell King Hades", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "60104": {
+      "name": "Death God Lodaga", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "60105": {
+      "name": "Hellborn Dilias", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "60112": {
+      "name": "Alice", 
+      "element": "dark", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "60113": {
+      "name": "Scythe Alice", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "60114": {
+      "name": "Scythe God Alice", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "60115": {
+      "name": "Hell Keep Alice", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "60116": {
+      "name": "Inferno Princess Alice", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60117": {
+      "name": "Lovely Princess Alice", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "60162": {
+      "name": "Lemia", 
+      "element": "dark", 
+      "rarity": 3, 
+      "cost": 5 
+   },
+   "60163": {
+      "name": "Necromancer Lemia", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "60164": {
+      "name": "Soul Keeper Lemia", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 12 
+   },
+   "60165": {
+      "name": "Soul Vortex Lemia", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 22 
+   },
+   "60172": {
+      "name": "Kikuri", 
+      "element": "dark", 
+      "rarity": 3, 
+      "cost": 7 
+   },
+   "60173": {
+      "name": "Goth Kikuri", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "60174": {
+      "name": "Goth Idol Kikuri", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "60175": {
+      "name": "Death Idol Kikuri", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "60176": {
+      "name": "Demonic Idol Kikuri", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60177": {
+      "name": "Nefarious Dance Kikuri", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "60253": {
+      "name": "Duel-GX", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 8 
+   },
+   "60254": {
+      "name": "Duel-GX II", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 13 
+   },
+   "60255": {
+      "name": "Duel-SGX", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 23 
+   },
+   "60257": {
+      "name": "DUEL-FGXVM", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "60273": {
+      "name": "Half Blood Lira", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "60274": {
+      "name": "Magistra Lira", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "60275": {
+      "name": "God Eater Lira", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 25 
+   },
+   "60283": {
+      "name": "Dark Swords Logan", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "60284": {
+      "name": "Evil Blades Logan", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "60285": {
+      "name": "Inferno Swords Logan", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 24 
+   },
+   "60286": {
+      "name": "Vicious Twin-Edge Logan", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60313": {
+      "name": "Dark Charm Lunaris", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "60314": {
+      "name": "Dark Curse Lunaris", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "60315": {
+      "name": "Black Lotus Lunaris", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "60316": {
+      "name": "Midnight Allure Lunaris", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60317": {
+      "name": "Bewitching Wings Lunaris", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "60353": {
+      "name": "Dark Blade Zephyr", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "60354": {
+      "name": "Dark Warrior Zephyr", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "60355": {
+      "name": "Dark Warlord Zephyr", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "60356": {
+      "name": "Phantom Victor Zephyr", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60357": {
+      "name": "Sacred Teachings Zephyr", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "60363": {
+      "name": "Magic Riffs Eric", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 12 
+   },
+   "60364": {
+      "name": "Dark Tunes Eric", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "60365": {
+      "name": "Arcane Solo Eric", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "60473": {
+      "name": "Kajah", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "60474": {
+      "name": "Evil Kajah", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "60475": {
+      "name": "Evil God Kajah", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "60476": {
+      "name": "Shadow Retribution Kajah", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60493": {
+      "name": "Dictator Lilly Matah", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "60494": {
+      "name": "Empress Lilly Matah", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "60495": {
+      "name": "Tyrant Lilly Matah", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "60497": {
+      "name": "Necromancer Lilly Matah", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "60523": {
+      "name": "Inferno Elza", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "60524": {
+      "name": "Inferno Queen Elza", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "60525": {
+      "name": "Inferno Goddess Elza", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "60526": {
+      "name": "Marzanna Reaper Elza", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60527": {
+      "name": "Graceful Princess Elza", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "60533": {
+      "name": "Assassin Kuda", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "60534": {
+      "name": "Loyal Assassin Kuda", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "60535": {
+      "name": "Master Assassin Kuda", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "60536": {
+      "name": "Shadow Assailant Kuda", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60584": {
+      "name": "Dolce Megurine Luka", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 16 
+   },
+   "60585": {
+      "name": "Crescendo Megurine Luka", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 26 
+   },
+   "60593": {
+      "name": "Dark Winged Ardin", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "60594": {
+      "name": "Dark Seraph Ardin", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "60595": {
+      "name": "Dark Demigod Ardin", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "60623": {
+      "name": "Dark Keeper Iidor", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "60624": {
+      "name": "Draconian Varfed", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "60625": {
+      "name": "Demon God Borgeus", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "60643": {
+      "name": "Dark Blades Zergel", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "60644": {
+      "name": "Penta Blade Zergel", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "60645": {
+      "name": "Blade Master Zergel", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "60664": {
+      "name": "Misfortune Feeva", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "60665": {
+      "name": "Devastation Queen Feeva", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "60666": {
+      "name": "Cataclysm Empress Feeva", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60667": {
+      "name": "Sublime Darkness Feeva", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "60674": {
+      "name": "Void Pearl Ivris", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "60675": {
+      "name": "Nebula Pearl Ivris", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "60676": {
+      "name": "Galactic Treasure Ivris", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60704": {
+      "name": "Ominous Slasher Aaron", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "60705": {
+      "name": "Phantom Fissure Aaron", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "60706": {
+      "name": "Grave Carver Aaron", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60734": {
+      "name": "Haunting Curse Yuura", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "60735": {
+      "name": "Eerie Possession Yuura", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "60736": {
+      "name": "Grand Malediction Yuura", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60737": {
+      "name": "Wise Necromancer Yuura", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "60754": {
+      "name": "Dark Armor Reis", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "60755": {
+      "name": "Demon Armor Reis", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "60756": {
+      "name": "Hellion Armor Reis", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "60764": {
+      "name": "Dark Snake Kafka", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "60765": {
+      "name": "Shadow Serpent Kafka", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "60766": {
+      "name": "Sinister Basilisk Kafka", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "60767": {
+      "name": "Demon Manipulator Kafka", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "60774": {
+      "name": "Shadow Collector Charis", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "60775": {
+      "name": "Spirit Master Charis", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "60776": {
+      "name": "Soul Covenant Charis", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "60834": {
+      "name": "Onyx Dragon Rugrow", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "60835": {
+      "name": "Dark Crusher Regarus", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "60836": {
+      "name": "Tenebrous Wings Reviora", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "60844": {
+      "name": "Metal Forger Chrome", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "60845": {
+      "name": "Shadow Alloy Chrome", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "60846": {
+      "name": "Calamity Steel Chrome", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "60874": {
+      "name": "Demon Knight Febros", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "60875": {
+      "name": "Centaur Paladin Febros ", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "60876": {
+      "name": "Sacred Kinnara Febros", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "60884": {
+      "name": "Cursed Sword Laberd", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "60885": {
+      "name": "Doomed Edge Laberd", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "60886": {
+      "name": "Soul Reaver Laberd", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "60894": {
+      "name": "Unworldly Guns Malbelle", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "60895": {
+      "name": "Occult Arms Malbelle", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "60896": {
+      "name": "Ghastly Blaster Malbelle", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "60914": {
+      "name": "Inferno Melina", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "60915": {
+      "name": "Hades Slayer Melina", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "60916": {
+      "name": "Tartarus Burial Melina", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "60954": {
+      "name": "Mysterious Knight Zeal", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "60955": {
+      "name": "Hollow Darkness Zeal", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "60956": {
+      "name": "Mauve Tenebrosity Zeal", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "60974": {
+      "name": "Dark Divinity Eclise", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "60975": {
+      "name": "Somber Goddess Eclise", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "60976": {
+      "name": "Dusk Artemis Eclise", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "60984": {
+      "name": "Dark Soil Mizerka", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "60985": {
+      "name": "Murky Pond Mizerka", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "60986": {
+      "name": "Shadow Ocean Mizerka", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "61006": {
+      "name": "Heresy Demon Kalon", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "61007": {
+      "name": "Dark Destruction Kalon", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "61026": {
+      "name": "Wicked Sorcerer Gregor", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "61027": {
+      "name": "Treasure Demon Gregor", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "61036": {
+      "name": "Lion Princess Sonia", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "61037": {
+      "name": "Roaring Empress Sonia", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "61046": {
+      "name": "Noble Links Johan", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "61047": {
+      "name": "Imperial Chain Johan", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "61056": {
+      "name": "Calm Triumph Zekuu", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "61057": {
+      "name": "Halting Victory Zekuu", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "61066": {
+      "name": "Battle Fanatic Zeek", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "61067": {
+      "name": "War Maniac Zeek", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "61086": {
+      "name": "Judgment Demon Zalvard", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "61087": {
+      "name": "Soul Eater Zalvard", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "61096": {
+      "name": "Pioneering Leader Shion", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "61097": {
+      "name": "Disnomian Emperor Shion", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "61136": {
+      "name": "Hexed Parasite Velma", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "61137": {
+      "name": "Accursed Calamity Velma", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "61146": {
+      "name": "Waning Moon Mizo Dorte", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "61147": {
+      "name": "Death Soul Mizo Dorte", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "61196": {
+      "name": "Cursed Anchor Dirk Rezo", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "61197": {
+      "name": "Possessed Sea Dirk Rezo", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "61216": {
+      "name": "Dark Swordsman Neviro", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "61217": {
+      "name": "Ominous Blade Neviro", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "61256": {
+      "name": "Ruinous Pair Ragina", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "61257": {
+      "name": "Deadly Edges Ragina", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "61286": {
+      "name": "Holy End Roglizer", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "61287": {
+      "name": "Perpetual Flaw Roglizer", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "710217": {
+      "name": "Ace Assassin Natalamé", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "720157": {
+      "name": "Bad Lands Queen Gazolina", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "740157": {
+      "name": "Stratospheric Crash Belt", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "750122": {
+      "name": "Wonder Mirror Idol", 
+      "element": "dark", 
+      "rarity": 3, 
+      "cost": 8 
+   },
+   "750166": {
+      "name": "Avalon Arthur", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "750167": {
+      "name": "Dark Path Arthur", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "760226": {
+      "name": "Corporal Lancelot", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "760227": {
+      "name": "Kingslayer Lancelot", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "810047": {
+      "name": "Scarlet Archon Blaze", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "810048": {
+      "name": "Immortal Firewing Blaze", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "810104": {
+      "name": "Red Hood Ciara", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "810105": {
+      "name": "Scarlet Hood Ciara", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "810106": {
+      "name": "Crimson Hood Ciara", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "810107": {
+      "name": "Sanguine Hood Ciara", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "810108": {
+      "name": "Abyssal Witch Ciara", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "810114": {
+      "name": "Nick", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "810115": {
+      "name": "Furious Nick", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "810116": {
+      "name": "Raging Nick", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "810134": {
+      "name": "Ultor", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "810135": {
+      "name": "Valiant Ultor", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "810146": {
+      "name": "Cyclopean Ultor", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "810147": {
+      "name": "Herculean Ultor", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "810176": {
+      "name": "Mai Shiranui", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "810177": {
+      "name": "Mai Shiranui", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "810178": {
+      "name": "Mai Shiranui", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "810204": {
+      "name": "Meiko", 
+      "element": "fire", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "810205": {
+      "name": "Cantata Meiko", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "810206": {
+      "name": "Passion Soprano Meiko", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "810287": {
+      "name": "Commander Laresa", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "810288": {
+      "name": "Battle Admiral Laresa", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "810315": {
+      "name": "Berserker Korzan", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "810316": {
+      "name": "Blood Destroyer Korzan", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "810317": {
+      "name": "Infernal Ravager Korzan", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "810318": {
+      "name": " Korzan the Damned", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "810325": {
+      "name": "Randolph", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "810326": {
+      "name": "Ensorcelled Randolph", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "810327": {
+      "name": "Lycanthrope Randolph", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "810337": {
+      "name": "Overlord Azurai", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "810338": {
+      "name": "Doombringer Azurai", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "810356": {
+      "name": "Royal Blade Rahotep", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "810357": {
+      "name": "Sunless Warden Rahotep", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "810377": {
+      "name": "Johnny", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "810378": {
+      "name": "Johnny", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "810397": {
+      "name": "Rain", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "810398": {
+      "name": "Rain", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "810417": {
+      "name": "Rogue Inquisitor Adriesta", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "810418": {
+      "name": "Scourgemistress Adriesta", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "810427": {
+      "name": "Pastel Ellie", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "810428": {
+      "name": "Sweet Harlequin Ellie", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "810437": {
+      "name": "Spiritshard al-Akqat", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "810438": {
+      "name": "Fate-Holder al-Akqat", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "810507": {
+      "name": "Ardent Soul Feng", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "810508": {
+      "name": "Blazing Phoenix Feng", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "810525": {
+      "name": "Grandt", 
+      "element": "fire", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "810526": {
+      "name": "Mercenary Grandt", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "810527": {
+      "name": "Slayer Grandt", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "810547": {
+      "name": "Natsu Dragneel", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "810548": {
+      "name": "Natsu Dragneel", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "810557": {
+      "name": "Pyretic Yan & Yuan", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "810558": {
+      "name": "Calescent Yan & Yuan", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "810587": {
+      "name": "Katsuki Bakugo", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "810588": {
+      "name": "Katsuki Bakugo", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "810657": {
+      "name": "Blazing Victory Cayena", 
+      "element": "fire", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "810658": {
+      "name": "Righteous Sun Cayena", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "811116": {
+      "name": "Brave Kurewa & Kuraginn", 
+      "element": "fire", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "811118": {
+      "name": "Fabled Kurewa & Kuraginn", 
+      "element": "fire", 
+      "rarity": 8, 
+      "cost": 45 
+   },
+   "820047": {
+      "name": "Kaiseri Abyss Sae", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "820048": {
+      "name": "Great Omniscience Sae", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "820114": {
+      "name": "Jack", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "820115": {
+      "name": "Jack Frost", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "820116": {
+      "name": "Avalanche Jack", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "820134": {
+      "name": "Tridon", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "820135": {
+      "name": "Merciless Tridon", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "820146": {
+      "name": "Colossal Tridon", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "820147": {
+      "name": "Neptunian Tridon", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "820167": {
+      "name": "Mad Whizz Vikki", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "820168": {
+      "name": "Ebil Genius Vikki", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "820176": {
+      "name": "Kula Diamond", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "820177": {
+      "name": "Kula Diamond", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "820178": {
+      "name": "Kula Diamond", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "820204": {
+      "name": "Kaito", 
+      "element": "water", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "820205": {
+      "name": "Sonata Kaito", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "820206": {
+      "name": "Digital Rhapsody Kaito", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "820277": {
+      "name": "Storm Shatterer Galea", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "820278": {
+      "name": "Tidal Stormsurge Galea", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "820297": {
+      "name": "Twinkle Snow Miku", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "820298": {
+      "name": "Twinkle Snow Miku", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "820315": {
+      "name": "Battlemage Haile", 
+      "element": "water", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "820316": {
+      "name": "Gelid Arcane Haile", 
+      "element": "water", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "820317": {
+      "name": "Boreal Tempest Haile", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "820318": {
+      "name": "Archmage Haile", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "820357": {
+      "name": "Riverblade Kawab", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "820358": {
+      "name": "Crocodile Lord Kawab", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "820377": {
+      "name": "May", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "820378": {
+      "name": "May", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "820397": {
+      "name": "Lasswell", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "820398": {
+      "name": "Lasswell", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "820417": {
+      "name": "Worldwalker Ilm", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "820418": {
+      "name": "Fate-Eater Ilm", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "820437": {
+      "name": "Bibliosoph Astrid", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "820438": {
+      "name": "Spirit Conjurer Astrid", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "820507": {
+      "name": "Lofia", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "820508": {
+      "name": "Lofia", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "820547": {
+      "name": "Gray Fullbuster", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "820548": {
+      "name": "Gray Fullbuster", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "820557": {
+      "name": "Arctic Vail & Vidron", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "820558": {
+      "name": "Glacial Vail & Vidron", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "820567": {
+      "name": "Tsovinar", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "820568": {
+      "name": "Endless Abyss Tsovinar", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "820587": {
+      "name": "Tsuyu Asui", 
+      "element": "water", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "820588": {
+      "name": "Tsuyu Asui", 
+      "element": "water", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "830047": {
+      "name": "Dragonsoul Dranoel", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "830048": {
+      "name": "Dark Soul Dranoel", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "830115": {
+      "name": "Ageless Keeper Zeruiah", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "830116": {
+      "name": "Timeless Warden Zeruiah", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "830117": {
+      "name": "Eternal Guardian Zeruiah", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "830118": {
+      "name": "Infinity Starsage Zeruiah", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "830134": {
+      "name": "Andaria", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "830135": {
+      "name": "Swiftshot Andaria", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "830146": {
+      "name": "Fatalshot Andaria", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "830147": {
+      "name": "Ruinous Andaria", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "830177": {
+      "name": "Terry Bogard", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "830178": {
+      "name": "Terry Bogard", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "830187": {
+      "name": "Leona", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "830188": {
+      "name": "Leona", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "830277": {
+      "name": "Commander Wannahon", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "830278": {
+      "name": "Blightblade Wannahon", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "830297": {
+      "name": "Senbonzakura Miku", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "830298": {
+      "name": "Senbonzakura Miku", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "830315": {
+      "name": "Chieftain Avani", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "830316": {
+      "name": "Beast Master Avani", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "830317": {
+      "name": "Monster Hunter Avani", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "830325": {
+      "name": "Deranged Pugilist Nyala", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 21 
+   },
+   "830326": {
+      "name": "Black Enforcer Nyala", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "830327": {
+      "name": "Terror Fist Nyala", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "830328": {
+      "name": "Big Sister Nyala", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "830357": {
+      "name": "Ravishing Hetepheres", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "830358": {
+      "name": "Divine Rogue Hetepheres", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "830377": {
+      "name": "Dizzy", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "830378": {
+      "name": "Dizzy", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "830387": {
+      "name": "Baiken", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "830388": {
+      "name": "Baiken", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "830417": {
+      "name": "Wulf Aspirant Faelan", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "830418": {
+      "name": "White Wulf Faelan", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "830437": {
+      "name": "Pharmakeia Nimune", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "830438": {
+      "name": "Verdant Góēs Nimune", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "830504": {
+      "name": "Huntress Fang", 
+      "element": "earth", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "830505": {
+      "name": "Heroine Fang", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 18 
+   },
+   "830516": {
+      "name": "Fei and Fang", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 28 
+   },
+   "830518": {
+      "name": "Heroes Fei and Fang", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "830525": {
+      "name": "Elaina", 
+      "element": "earth", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "830526": {
+      "name": "Mercenary Mage Elaina", 
+      "element": "earth", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "830527": {
+      "name": "Chrono Mage Elaina", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "830537": {
+      "name": "Winter Bjørn & Linlin", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "830538": {
+      "name": "Cheery Bjørn & Linlin", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "830557": {
+      "name": "Gracious Honoka & Hisa", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "830558": {
+      "name": "Merciful Honoka & Hisa", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "830587": {
+      "name": "Ochaco Uraraka", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "830588": {
+      "name": "Ochaco Uraraka", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "840047": {
+      "name": "Vortex Blade Cerise", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "840048": {
+      "name": "Storm Queen Cerise", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "840114": {
+      "name": "Deadly Bonnie", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "840115": {
+      "name": "Fatal Spark Bonnie", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "840116": {
+      "name": "Lethal Cannon Bonnie", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "840117": {
+      "name": "Plasma Blaster Bonnie", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "840127": {
+      "name": "Resurrected Silvie", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "840128": {
+      "name": "Silent Sentinel Silvie", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "840134": {
+      "name": "Zedus", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "840135": {
+      "name": "Boltstrike Zedus", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "840146": {
+      "name": "Boltdrive Zedus", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "840147": {
+      "name": "Imperator Zedus", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "840176": {
+      "name": "Benimaru Nikaido", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "840177": {
+      "name": "Benimaru Nikaido", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "840178": {
+      "name": "Benimaru Nikaido", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "840204": {
+      "name": "Vocals Kagamine Rin", 
+      "element": "thunder", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "840205": {
+      "name": "Gemini Kagamine Rin", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "840206": {
+      "name": "Melody Kagamine Rin", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "840255": {
+      "name": "Thunder Sentinel Deimos", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "840256": {
+      "name": "Storm Warden Deimos", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "840257": {
+      "name": "Deimos Thunderborn", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "840287": {
+      "name": "Commtech Vashi", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "840288": {
+      "name": "Sonic Blaster Vashi", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "840315": {
+      "name": "Chevalier Mikael", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "840316": {
+      "name": "Thunder Paladin Mikael", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "840317": {
+      "name": "Storm Champion Mikael", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "840325": {
+      "name": "Ravenna", 
+      "element": "thunder", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "840326": {
+      "name": "Star-Crossed Ravenna", 
+      "element": "thunder", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "840327": {
+      "name": "Landeythan Ravenna", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "840357": {
+      "name": "Guardian Khepratum", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "840358": {
+      "name": "Dusk Star Khepratum", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "840367": {
+      "name": "Hallelujah", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "840368": {
+      "name": "Hallelujah", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "840377": {
+      "name": "Millia", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "840378": {
+      "name": "Millia", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "840397": {
+      "name": "Lid", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "840398": {
+      "name": "Lid", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "840417": {
+      "name": "Uncrowned Lord Eerikki", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "840418": {
+      "name": "Owlrider Jute Eerikki", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "840507": {
+      "name": "Joyous Dragon Long", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "840508": {
+      "name": "Laughing Devil Long", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "840547": {
+      "name": "Erza Scarlet", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "840548": {
+      "name": "Erza Scarlet", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "840557": {
+      "name": "Prophetic Tate & Tama", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "840558": {
+      "name": "Fearless Tate & Tama", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "840567": {
+      "name": "N'an-Hua", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "840568": {
+      "name": "N'an-Wang-Mu", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "840577": {
+      "name": "Draegar", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "840578": {
+      "name": "Draegar the Zealous", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "840587": {
+      "name": "Izuku Midoriya", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "840588": {
+      "name": "Izuku Midoriya", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "840607": {
+      "name": "Mordred", 
+      "element": "thunder", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "840608": {
+      "name": "Noble Prince Mordred", 
+      "element": "thunder", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "850013": {
+      "name": "Estia", 
+      "element": "light", 
+      "rarity": 3, 
+      "cost": 6 
+   },
+   "850014": {
+      "name": "Damsel Estia", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 10 
+   },
+   "850015": {
+      "name": "Princess Estia", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "850017": {
+      "name": "Unyielding Estia", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "850018": {
+      "name": "Estia, Regalia of Elysia", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "850025": {
+      "name": "Xenon & Estia", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 15 
+   },
+   "850047": {
+      "name": "Spellarcher Fionna", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "850048": {
+      "name": "Brilliant Flash Fionna", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "850114": {
+      "name": "Eva", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "850115": {
+      "name": "Snow Princess Eva", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "850116": {
+      "name": "Snow Queen Eva", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "850134": {
+      "name": "Aurelia", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "850135": {
+      "name": "Elegant Aurelia", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "850146": {
+      "name": "Statuesque Aurelia", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "850147": {
+      "name": "Archangel Aurelia", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "850154": {
+      "name": "Cottontail Carrol", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "850155": {
+      "name": "Egg Hunter Carrol", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "850156": {
+      "name": "Eggsecutioner Carrol", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "850157": {
+      "name": "Eggstra Colorful Carrol", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "850158": {
+      "name": "Eggspert Huntress Carrol", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "850165": {
+      "name": "Juno-Seto", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "850166": {
+      "name": "Dawnbearer Juno-Seto", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "850167": {
+      "name": "Empyrean Juno-Seto", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "850176": {
+      "name": "Athena Asamiya", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "850177": {
+      "name": "Athena Asamiya", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "850178": {
+      "name": "Athena Asamiya", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "850196": {
+      "name": "Sakura Miku", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "850197": {
+      "name": "Blooming Sakura Miku", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "850198": {
+      "name": "Mankai Sakura Miku", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "850204": {
+      "name": "Clavier Kagamine Len", 
+      "element": "light", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "850205": {
+      "name": "Gemini Kagamine Len", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "850206": {
+      "name": "Harmony Kagamine Len", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "850287": {
+      "name": "Scout Enile", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "850288": {
+      "name": "Mobile Pathfinder Enile", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "850297": {
+      "name": "Priestess Snow Miku", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "850298": {
+      "name": "Priestess Snow Miku", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "850315": {
+      "name": "Librarian Allanon", 
+      "element": "light", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "850316": {
+      "name": "Chronicler Allanon", 
+      "element": "light", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "850317": {
+      "name": "Loremaster Allanon", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "850318": {
+      "name": "Arcane Sage Allanon", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "850357": {
+      "name": "Brilliant Persenet", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "850358": {
+      "name": "Bright Star Persenet", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "850367": {
+      "name": "Gaston", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "850368": {
+      "name": "Gaston", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "850377": {
+      "name": "Jack-O'", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "850378": {
+      "name": "Jack-O'", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "850387": {
+      "name": "Leo Whitefang", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "850388": {
+      "name": "Leo Whitefang", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "850397": {
+      "name": "Fina", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "850398": {
+      "name": "Fina", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "850417": {
+      "name": "Matriarch Gabriela", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "850418": {
+      "name": "Silver Queen Gabriela", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "850437": {
+      "name": "Swiftwind Raquiel", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "850438": {
+      "name": "Angelic Gale Raquiel", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "850507": {
+      "name": "Chloe", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "850508": {
+      "name": "Chloe", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "850547": {
+      "name": "Lucy Heartfilia", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "850548": {
+      "name": "Lucy Heartfilia", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "850557": {
+      "name": "Adroit Quentin & Quinn", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "850558": {
+      "name": "Canny Quentin & Quinn", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "850567": {
+      "name": "Autumn Child QiuTong", 
+      "element": "light", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "850568": {
+      "name": "Lunar Maiden QiuTong", 
+      "element": "light", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "860017": {
+      "name": "Black Knight Xenon", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "860018": {
+      "name": "Xenon, Son of Elysia", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 60 
+   },
+   "860047": {
+      "name": "Spellscythe Ciardha", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "860048": {
+      "name": "Occult Reaper Ciardha", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "860104": {
+      "name": "Semira", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "860105": {
+      "name": "Pumqueen Semira", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "860106": {
+      "name": "Pumpress Semira", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "860107": {
+      "name": "Pumleficent Semira", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "860134": {
+      "name": "Hadaron", 
+      "element": "dark", 
+      "rarity": 4, 
+      "cost": 13 
+   },
+   "860135": {
+      "name": "Heartless Hadaron", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 17 
+   },
+   "860146": {
+      "name": "Netherking Hadaron", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 27 
+   },
+   "860147": {
+      "name": "Deathless Hadaron", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "860165": {
+      "name": "Ensa-Taya", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 31 
+   },
+   "860166": {
+      "name": "Umbral Bloom Ensa-Taya", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "860167": {
+      "name": "Void Pasha Ensa-Taya", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "860177": {
+      "name": "Iori Yagami", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "860178": {
+      "name": "Iori Yagami", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "860237": {
+      "name": "Zero", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 43 
+   },
+   "860238": {
+      "name": "Zero", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "860255": {
+      "name": "Shadow Blade Zenia", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 19 
+   },
+   "860256": {
+      "name": "Shadow Stalker Zenia", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 29 
+   },
+   "860257": {
+      "name": "Obsidian Seraph Zenia", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 40 
+   },
+   "860258": {
+      "name": "Void Walker Zenia", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 47 
+   },
+   "860277": {
+      "name": "Giantkiller Keres", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "860278": {
+      "name": "Titanbane Primus Keres", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "860315": {
+      "name": "Alley Cat Nyami", 
+      "element": "dark", 
+      "rarity": 5, 
+      "cost": 20 
+   },
+   "860316": {
+      "name": "Wild Cat Nyami", 
+      "element": "dark", 
+      "rarity": 6, 
+      "cost": 30 
+   },
+   "860317": {
+      "name": "Shadow Cat Nyami", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 42 
+   },
+   "860318": {
+      "name": "Little Sister Nyami", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "860328": {
+      "name": "Randolph and Ravenna", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "860356": {
+      "name": "Twilight Priestess Neferet", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "860357": {
+      "name": "Midnight Judge Neferet", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "860367": {
+      "name": "Toki", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "860368": {
+      "name": "Toki", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 48 
+   },
+   "860377": {
+      "name": "Ramlethal", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "860378": {
+      "name": "Ramlethal", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "860417": {
+      "name": "Seductive Enticer Luina", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "860418": {
+      "name": "Hellborne Honeypot Luina", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "860427": {
+      "name": "Fallen Knight Galtier", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 44 
+   },
+   "860428": {
+      "name": "Ruinous Despoiler Galtier", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 50 
+   },
+   "860517": {
+      "name": "Dark Succubus Beatrix", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 46 
+   },
+   "860518": {
+      "name": "Carnal Domina Beatrix", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 54 
+   },
+   "860557": {
+      "name": "Devious Ebony & Enid", 
+      "element": "dark", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "860558": {
+      "name": "Astute Ebony & Enid", 
+      "element": "dark", 
+      "rarity": 8, 
+      "cost": 60 
+   }
