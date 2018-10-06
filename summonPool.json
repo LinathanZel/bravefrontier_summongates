@@ -6743,6 +6743,18 @@
       "rarity": 8, 
       "cost": 60 
    },
+   "830597": {
+      "name": "Nia", 
+      "element": "earth", 
+      "rarity": 7, 
+      "cost": 52 
+   },
+   "830598": {
+      "name": "Nia, Maverick of Elysia", 
+      "element": "earth", 
+      "rarity": 8, 
+      "cost": 60 
+   },
    "840047": {
       "name": "Vortex Blade Cerise", 
       "element": "thunder", 
