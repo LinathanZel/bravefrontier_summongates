@@ -1,0 +1,776 @@
+{
+	"3720167":{
+        "desc":"54 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, critical damage, Water, Earth elemental damage, Atk, Def relative to max HP, BB gauge, fully restores HP, 100% evasion, 80% KO resistance, 100% DoT reduction & 100% damage reduction",
+        "name":"Ultimatum Protocol",
+        "pair":[
+            "720167",
+            "730227"
+        ],
+        "synergy":"Quagmire"
+    },
+    "3720237":{
+        "desc":"70 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, Spark damage, all elemental damage, max HP, OD gauge, BB Atk  & activates BB/SBB/UBB twice",
+        "name":"Absolute Photon Slash",
+        "pair":[
+            "720237",
+            "740247"
+        ],
+        "synergy":"Tempest"
+    },
+    "3730287":{
+        "desc":"42 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, BB Atk, max HP, all elemental damage, spark vulnerability infliction, BB gauge to max, OD gauge, damage taken restores HP, 80% KO resistance, purges LS, ES Lock and DoT & may purge Paralysis and Poison negation from all foes",
+        "name":"Cataclysmic Corruption",
+        "pair":[
+            "730287",
+            "760006"
+        ],
+        "synergy":"Obsidian"
+    },
+    "3750317":{
+        "desc":"50 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, BB Atk, spark damage, all elemental damage, spark vulnerability infliction, BB gauge & 100% raises allies from KO",
+        "name":"Heimskringla",
+        "pair":[
+            "750317",
+            "730287"
+        ],
+        "synergy":"Prism"
+    },
+    "3760006":{
+        "desc":"50 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, BB gauge to max, OD gauge, damage taken restores HP, 100% raises allies from KO, 80% KO resistance, purges LS, ES Lock and DoT & may purge Paralysis and Poison negation from all foes",
+        "name":"Fall of the Gods",
+        "pair":[
+            "760006",
+            "750317"
+        ],
+        "synergy":"Twilight"
+    },
+    "3810148":{
+        "desc":"60 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, critical hit rate, critical damage, max HP for all allies, own Atk, Def, 100% damage reduction, fully restores HP, 80% KO resistance, 80% raises allies from KO & activates Light barrier",
+        "name":"Rally for Athensphere",
+        "pair":[
+            "810148",
+            "850148"
+        ],
+        "synergy":"Nova"
+    },
+    "3810338":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, own max HP, BB Atk, Atk, Def, Rec, critical hit rate, critical damage, Spark damage, damage taken restores HP & activates own BB/SBB/UBB twice",
+        "name":"Catastrophe Naraka",
+        "pair":[
+            "810338",
+            "810318"
+        ],
+        "synergy":"Blaze"
+    },
+    "3810357":{
+        "desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, damage against status afflicted foes, Atk, Def relative to Rec, 100% raises allies from KO, massive DoT on all foes, adds status ailment infliction to attack, 100% damage reduction, purges DOT effects & negates critical and elemental damage",
+        "name":"Shards of Destiny",
+        "pair":[
+            "810357",
+            "860357"
+        ],
+        "synergy":"Pyre"
+    },
+    "3810418":{
+        "desc":"66 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, max HP, Atk, Def relative to HP, spark damage fills BB gauge, damage taken boosts BB gauge and restores HP, activates Thunder barrier, 100% damage reduction, 80% KO resistance & inflicts Atk, Def reduction",
+        "name":"Moonlight Purgatory",
+        "pair":[
+            "810418",
+            "850418"
+        ],
+        "synergy":"Nova"
+    },
+    "3810518":{
+        "desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Def, critical rate, spark damage, own spark damage, Def relative to max HP, OD gauge, KO resistance, damage taken boosts BB gauge and 100% Fire, Thunder damage reduction",
+        "name":"Deaf To All",
+        "pair":[
+            "810518",
+            "840128"
+        ],
+        "synergy":"Blast"
+    },
+    "3810558":{
+        "desc":"50 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, all elemental damage, BB gauge, OD gauge, Def relative to Atk, fully restores HP, damage taken boosts BB gauge & activates Water barrier",
+        "name":"Double! Dragon! Explosion!",
+        "pair":[
+            "810558",
+            "820558"
+        ],
+        "synergy":"Steam"
+    },
+    "3810618":{
+        "desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts BC, HC, item drop rate, spark damage, spark damage restores HP and boosts BB gauge, inflicts Atk, Def reduction, 100% evasion, activates Fire Barrier, perform 1 extra action within the same turn & purges LS and ES Lock",
+        "name":"Sparkling Showstopper",
+        "pair":[
+            "810618",
+            "810428"
+        ],
+        "synergy":"Blaze"
+    },
+    "3810628":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, Atk relative to Def,  BB gauge, Def relative to Rec, BC, HC, Item drop rate, 80% evasion & 100% damage reduction",
+        "name":"Cycle of Hatred",
+        "pair":[
+            "810628",
+            "830118"
+        ],
+        "synergy":"Magma"
+    },
+    "3810658":{
+        "desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec, critical hit rate, spark damage, critical damage, Fire, Dark elemental damage, BB gauge, fully restores HP, inflicts Atk, Def reduction & activates non-elemental shield",
+        "name":"Valhalla of the Damned",
+        "pair":[
+            "810658",
+            "860758"
+        ],
+        "synergy":"Pyre"
+    },
+    "3810688":{
+        "desc":"56 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, fully restores HP, 80% KO resistance, activates Fire barrier, purges LS and ES Lock, 100% damage reduction, 100% raises allies from KO & activates BB/SBB/UBB twice",
+        "name":"Gerh en Hati",
+        "pair":[
+            "810688",
+            "830688"
+        ],
+        "synergy":"Magma"
+    },
+    "3810708":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Spark damage, Fire elemental damage, critical damage, adds status ailment infliction to attack, 100% Fire, Earth damage reduction, Spark vulnerability infliction & massive DoT on all foes",
+        "name":"Gigablast Pyromancy",
+        "pair":[
+            "810708",
+            "810278"
+        ],
+        "synergy":"Blaze"
+    },
+    "3810758":{
+        "desc":"32 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, critical damage, Spark damage, max HP, 100% evasion, fully restores HP, damage taken boosts BB gauge & adds status ailment infliction to attack",
+        "name":"Boarbaric Walkure",
+        "pair":[
+            "810758",
+            "850658"
+        ],
+        "synergy":"Nova"
+    },
+    "3810798":{
+        "desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec relative to max HP, spark damage, Fire, Earth elemental damage, BB gauge, 80% KO resistance, 100% damage reduction & activates BB/SBB/UBB twice",
+        "name":"Zenith Falling",
+        "pair":[
+            "810798",
+            "830798"
+        ],
+        "synergy":"Magma"
+    },
+    "3810808":{
+        "desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, critical damage, Fire, Water elemental damage, BB gauge, damage taken boosts BB gauge, OD gauge & 80% KO resistance",
+        "name":"Vanguard of Akras",
+        "pair":[
+            "810808",
+            "820808"
+        ],
+        "synergy":"Steam"
+    },
+    "3810828":{
+        "desc":"42 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Rec relative to Def, spark damage, Fire, Thunder elemental damage, OD gauge, raises normal hit amount, inflicts Atk, Def reduction, massive DoT on all foes & perform 1 extra action within the same turn ",
+        "name":"Vortex Untether",
+        "pair":[
+            "810828",
+            "840048"
+        ],
+        "synergy":"Blast"
+    },
+    "3810838":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, critical hit rate, spark damage, spark critical, critical damage, Atk, Def, Rec relative to max HP, spark vulnerability infliction & activates BB/SBB/UBB twice",
+        "name":"Unholy Union",
+        "pair":[
+            "810838",
+            "820838"
+        ],
+        "synergy":"Steam"
+    },
+    "3810858":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec relative to max HP, spark damage, Fire, Earth elemental damage, spark damage boosts BB gauge, damage taken boosts BB gauge and restores HP, 100% DoT reduction & activates BB/SBB/UBB twice",
+        "name":"Sun Cuore's Charge",
+        "pair":[
+            "810858",
+            "830858"
+        ],
+        "synergy":"Magma"
+    },
+    "3810898":{
+        "desc":"76 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, spark damage, spark vulnerability infliction, spark damage boosts BB gauge, OD gauge & adds status ailment infliction to attack",
+        "name":"Furball Frenzy",
+        "pair":[
+            "810898",
+            "820898"
+        ],
+        "synergy":"Steam"
+    },
+    "3810908":{
+        "desc":"66 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, critical rate, critical damage, spark damage, Fire, Dark elemental damage, Def relative to Atk, damage taken boosts BB gauge, activates Fire barrier & 100% damage reduction",
+        "name":"Helios Ascendant",
+        "pair":[
+            "810908",
+            "860798"
+        ],
+        "synergy":"Pyre"
+    },
+    "3820288":{
+        "desc":"60 combo grand dual attack on all foes (damage relative to remaining HP), boosts Def, max HP, Atk relative to Def, Spark damage, Water elemental damage, critical damage, OD gauge, activates Water barrier & perform 1 extra action within the same turn ",
+        "name":"All That Remains",
+        "pair":[
+            "820288",
+            "820278"
+        ],
+        "synergy":"Tsunami"
+    },
+    "3820358":{
+        "desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec, BB gauge, Spark damage, BB Atk, Atk, Def, Rec relative to max HP, Spark damage restores HP, activates Earth barrier & 100% damage reduction",
+        "name":"Blades of the Wild",
+        "pair":[
+            "820358",
+            "830358"
+        ],
+        "synergy":"Quagmire"
+    },
+    "3820438":{
+        "desc":"50 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, spark critical, spark vulnerability infliction, Atk, Def, Rec relative to max HP, 100% DoT reduction, fully restores HP & purges ES Lock",
+        "name":"Requiem Esoterica",
+        "pair":[
+            "820438",
+            "850438"
+        ],
+        "synergy":"Mist"
+    },
+    "3820568":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, Water elemental damage, critical damage, fills OD gauge at turn's end, damage taken boosts BB gauge and restores HP, 80% KO resistance & activates BB/SBB/UBB twice",
+        "name":"Even Lovers Drown",
+        "pair":[
+            "820568",
+            "820798"
+        ],
+        "synergy":"Tsunami"
+    },
+    "3820578":{
+        "desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, critical hit rate, critical damage, spark damage, Def relative to Atk, Atk relative to Def, inflicts Atk, Def reduction & fully restores HP",
+        "name":"Lovesick",
+        "pair":[
+            "820578",
+            "860568"
+        ],
+        "synergy":"Miasma"
+    },
+    "3820628":{
+        "desc":"34 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, critical damage, Spark damage, max HP, BB gauge, Atk, Def, Rec relative to max HP, 100% damage reduction, raises allies from KO, activates BB/SBB/UBB twice & damage taken restores HP",
+        "name":"Antediluvian S'uhn",
+        "pair":[
+            "820628",
+            "820568"
+        ],
+        "synergy":"Tsunami"
+    },
+    "3820668":{
+        "desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, Spark damage, Water, Dark elemental damage, activates BB/SBB/UBB twice, 100% evasion, adds status ailment infliction to attack, raises allies from KO & 100% Light, Dark damage reduction",
+        "name":"Reflections Beyond Existence",
+        "pair":[
+            "820668",
+            "860578"
+        ],
+        "synergy":"Miasma"
+    },
+    "3820678":{
+        "desc":"72 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, critical damage, Def relative to Atk, 100% damage reduction, negates critical and elemental damage & fills OD gauge at turn's end",
+        "name":"Beyond Human",
+        "pair":[
+            "820678",
+            "830678"
+        ],
+        "synergy":"Quagmire"
+    },
+    "3820688":{
+        "desc":"50 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, critical hit rate, critical damage, Spark damage, Water, Light elemental damage, 100% damage reduction, damage taken boosts BB gauge, 80% KO resistance & purges LS and ES Lock",
+        "name":"Qemahu Kharu",
+        "pair":[
+            "820688",
+            "850688"
+        ],
+        "synergy":"Mist"
+    },
+    "3820748":{
+        "desc":"36 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, Def relative to Atk, BB gauge to max, OD gauge, 100% damage reduction, 100% DoT reduction, 80% raises allies from KO & damage taken restores HP",
+        "name":"Tidebreach Fouett\u00e9",
+        "pair":[
+            "820748",
+            "840748"
+        ],
+        "synergy":"Tempest"
+    },
+    "3820758":{
+        "desc":"70 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec, critical hit rate, critical damage, Atk relative to Def, damage taken boosts BB gauge and restores HP, 80% KO resistance, 100% raises allies from KO, 100% evasion & massive DoT on all foes",
+        "name":"Liquid Silver Nightmare",
+        "pair":[
+            "820758",
+            "860658"
+        ],
+        "synergy":"Miasma"
+    },
+    "3820798":{
+        "desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts spark damage, Water, Light elemental damage, spark vulnerability infliction, adds status ailment infliction to attack, fills OD gauge at turn's end, damage taken boosts BB gauge & 80% KO resistance",
+        "name":"Demon Pathos",
+        "pair":[
+            "820798",
+            "850708"
+        ],
+        "synergy":"Mist"
+    },
+    "3820828":{
+        "desc":"42 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, critical damage, Atk, Def, Rec relative to max HP, raises normal hit amount, normal attacks hit all foes, 100% evasion, inflicts Atk, Def reduction, massive DoT on all foes & 100% DoT reduction",
+        "name":"Conflicted Philosophy",
+        "pair":[
+            "820828",
+            "860048"
+        ],
+        "synergy":"Miasma"
+    },
+    "3820848":{
+        "desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Rec relative to Def, fully restores HP, fills BB gauge, OD gauge, damage taken boosts BB gauge and restores HP, 100% damage reduction, adds status ailment infliction to attack, 80% raises allies from KO & activates BB/SBB/UBB twice",
+        "name":"Vade Retro, Spiritus!",
+        "pair":[
+            "820848",
+            "840848"
+        ],
+        "synergy":"Tempest"
+    },
+    "3820868":{
+        "desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, Thunder, Water elemental damage, Atk, Rec relative to Def, spark damage boosts BB gauge, 100% damage reduction, 100% evasion & activates BB/SBB/UBB twice",
+        "name":"Disastrous Adventure",
+        "pair":[
+            "820868",
+            "840868"
+        ],
+        "synergy":"Tempest"
+    },
+    "3830438":{
+        "desc":"50 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, all elemental damage, OD gauge fill rate, fully restores HP, damage taken restores HP, 80% raises allies from KO, 80% KO resistance, inflicts Atk, Def reduction & massive DoT on all foes",
+        "name":"Pity the Pawn",
+        "pair":[
+            "830438",
+            "860418"
+        ],
+        "synergy":"Obsidian"
+    },
+    "3830528":{
+        "desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical damage, Earth elemental damage, BB gauge, 80% KO resistance, 80% evasion, 80% activates BB/SBB/UBB twice, 80% raises allies from KO & purges turn skip effect",
+        "name":"Grand Terra Singularity",
+        "pair":[
+            "830528",
+            "830598"
+        ],
+        "synergy":"Tremor"
+    },
+    "3830558":{
+        "desc":"52 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec, BB gauge, OD gauge, 50% DoT reduction, 100% raises allies from KO, 100% evasion for self & damage taken boosts BB gauge and restores HP",
+        "name":"Hisa! Tama! Electric Gale!",
+        "pair":[
+            "830558",
+            "840558"
+        ],
+        "synergy":"Eruption"
+    },
+    "3830698":{
+        "desc":"50 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, spark damage, BB Atk, own Atk, Def, Rec, damage taken boosts BB gauge and restores HP & 100% raises allies from KO",
+        "name":"Unsung Respite",
+        "pair":[
+            "830698",
+            "830628"
+        ],
+        "synergy":"Tremor"
+    },
+    "3830708":{
+        "desc":"42 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Spark damage, Earth elemental damage, adds status ailment infliction to attack, purges LS and ES Lock effects from all allies, raises normal hit amount, normal attacks hit all foes & massive DoT on all foes",
+        "name":"Fleshrend Pandemic",
+        "pair":[
+            "830708",
+            "830278"
+        ],
+        "synergy":"Tremor"
+    },
+    "3830758":{
+        "desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec, critical hit rate, critical damage, BB Atk, BB gauge to max, fully restores HP, purges DoT effects & adds status ailment infliction and Atk, Def reduction to attack",
+        "name":"Diviner's Doomchant",
+        "pair":[
+            "830758",
+            "840658"
+        ],
+        "synergy":"Eruption"
+    },
+    "3830808":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, spark damage, probable spark critical, spark damage boosts BB gauge, damage taken boosts BB gauge, 80% KO resistance, fully restores HP & 100% damage reduction",
+        "name":"World Ending Blade",
+        "pair":[
+            "830808",
+            "840808"
+        ],
+        "synergy":"Eruption"
+    },
+    "3830818":{
+        "desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts spark damage, spark critical, Earth, Dark elemental damage,  spark damage restores HP and boosts BB gauge, OD gauge, activates BB/SBB/UBB twice, 100% evasion & 100% DoT reduction",
+        "name":"Will of Ohrmazd",
+        "pair":[
+            "830818",
+            "860818"
+        ],
+        "synergy":"Obsidian"
+    },
+    "3830828":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts critical damage, BB Atk, Atk relative to max HP, Def relative to Atk, damage taken restores HP, activates Light barrier, 100% damage reduction, 100% evasion, 60% chance Atk, Def reduction infliction counter & 80% KO resistance",
+        "name":"Goldenhorn Radiance",
+        "pair":[
+            "830828",
+            "850048"
+        ],
+        "synergy":"Prism"
+    },
+    "3830858":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, spark damage, spark critical, spark damage boosts BB gauge & activates BB/SBB/UBB twice",
+        "name":"La Veda: Emerald Dance",
+        "pair":[
+            "830858",
+            "830808"
+        ],
+        "synergy":"Tremor"
+    },
+    "3830868":{
+        "desc":"64 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Earth, Thunder elemental damage, crit damage, own Spark damage, Atk, Def, Rec relative to max HP, fills OD gauge at turn's end, inflicts Atk, Def reduction & 100% evasion",
+        "name":"Holy Commencement",
+        "pair":[
+            "830868",
+            "840868"
+        ],
+        "synergy":"Eruption"
+    },
+    "3830888":{
+        "desc":"68 combo grand dual attack on all foes (damage relative to remaining HP), boosts spark damage, max HP, 100% damage reduction, spark damage restores HP and boosts BB gauge, 80% KO resistance, 80% raises allies from KO & 50% OverDrive Fill",
+        "name":"Trilak\u1e63a\u1e47a",
+        "pair":[
+            "830888",
+            "840888"
+        ],
+        "synergy":"Eruption"
+    },
+    "3840258":{
+        "desc":"42 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, spark damage, BB gauge, 100% damage reduction, raises normal hit amount, damage taken restores HP & inflicts Atk, Def reduction",
+        "name":"Ascended Horizons",
+        "pair":[
+            "840258",
+            "860258"
+        ],
+        "synergy":"Cyclone"
+    },
+    "3840358":{
+        "desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec, Atk relative to Rec, fully restores HP, inflicts Atk reduction, 100% DoT reduction, 100% Water, Thunder damage reduction, Spark damage boosts BB gauge & 100% raises allies from KO",
+        "name":"Banished By Light",
+        "pair":[
+            "840358",
+            "850358"
+        ],
+        "synergy":"Radiance"
+    },
+    "3840438":{
+        "desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, max HP, spark damage, spark damage boosts BB gauge, inflicts Atk, Def reduction, activates Thunder barrier, fills OD gauge at turn's end, 100% damage reduction & critical damage for self",
+        "name":"Sanguine Ties",
+        "pair":[
+            "840438",
+            "810418"
+        ],
+        "synergy":"Blast"
+    },
+    "3840608":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, critical hit rate, critical damage, Spark damage, Thunder and Light elemental damage, damage against status afflicted foes, activates BB/SBB/UBB twice & adds status ailment infliction to attack",
+        "name":"Exquisite Treachery",
+        "pair":[
+            "840608",
+            "750167"
+        ],
+        "synergy":"Radiance"
+    },
+    "3840628":{
+        "desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, critical damage, Thunder elemental damage, OD gauge, Spark damage boosts BB gauge, raises allies from KO, 80% KO resistance, fully restores HP & inflicts Atk reduction",
+        "name":"Thousand Nephrite Trigram",
+        "pair":[
+            "840628",
+            "840568"
+        ],
+        "synergy":"Plasma"
+    },
+    "3840688":{
+        "desc":"70 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, critical damage, Thunder, Dark elemental damage, fills BB gauge, inflicts Atk, Def reduction, 100% damage reduction, 100% DoT reduction & purges LS and ES Lock",
+        "name":"Se\u1e25temu em Isefty",
+        "pair":[
+            "840688",
+            "860688"
+        ],
+        "synergy":"Cyclone"
+    },
+    "3840708":{
+        "desc":"30 combo grand dual attack on all foes (damage relative to remaining HP),  boosts OD gauge, Thunder elemental damage, critical damage, adds status ailment infliction to attack & damage taken boosts BB gauge and restores HP",
+        "name":"Manawrath Tempest",
+        "pair":[
+            "840708",
+            "840278"
+        ],
+        "synergy":"Plasma"
+    },
+    "3840758":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, Spark damage, critical damage, damage taken boosts BB gauge and restores HP, 100% raises allies from KO, raises normal hit amount, normal attacks hit all foes & perform 1 extra action within the same turn",
+        "name":"Eye of the Maelstrom",
+        "pair":[
+            "840758",
+            "820658"
+        ],
+        "synergy":"Tempest"
+    },
+    "3840768":{
+        "desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, OD gauge, Spark damage, Atk, Def relative to max HP, 100% evasion, fully restores HP, purges LS and ES Lock & activates BB/SBB/UBB twice",
+        "name":"Kagune Barrage",
+        "pair":[
+            "840768",
+            "850768"
+        ],
+        "synergy":"Radiance"
+    },
+    "3840788":{
+        "desc":"56 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk, Def, Rec, BC, HC, item drop rate, Spark damage, all elemental damage, Spark vulnerability infliction, Spark damage boosts BB gauge & 100% evasion",
+        "name":"Dominating Nature",
+        "pair":[
+            "840788",
+            "860788"
+        ],
+        "synergy":"Cyclone"
+    },
+    "3840798":{
+        "desc":"60 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, critical damage, BB Atk, Atk, Def, Rec relative to max HP, 100% evasion & 100% DoT reduction",
+        "name":"Ruinous Ambition",
+        "pair":[
+            "840798",
+            "860798"
+        ],
+        "synergy":"Cyclone"
+    },
+    "3840828":{
+        "desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, crit damage, spark damage, spark critical, BB gauge, raises normal hit amount, inflicts Atk, Def reduction, activates Thunder barrier  & perform 1 extra action within the same turn ",
+        "name":"Legends Against Heaven",
+        "pair":[
+            "840828",
+            "830048"
+        ],
+        "synergy":"Eruption"
+    },
+    "3840878":{
+        "desc":"64 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Thunder elemental damage, own Spark damage, damage taken boosts BB gauge, inflicts Atk, Def reduction & 100% evasion",
+        "name":"Lost July",
+        "pair":[
+            "840878",
+            "840868"
+        ],
+        "synergy":"Plasma"
+    },
+    "3850167":{
+        "desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts BB Atk, Spark damage, damage against status afflicted foes, 90% raises allies from KO, fully restores HP, activates Light barrier & 100% DoT reduction",
+        "name":"Final Embrace",
+        "pair":[
+            "850167",
+            "860167"
+        ],
+        "synergy":"Twilight"
+    },
+    "3850558":{
+        "desc":"52 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, own Atk, own Spark damage, Def, Rec relative to Atk, BB gauge, Light, Dark elemental damage, inflicts Atk, Def reduction & activates non-elemental shield",
+        "name":"Serendipitous Ruination",
+        "pair":[
+            "850558",
+            "860558"
+        ],
+        "synergy":"Twilight"
+    },
+    "3850628":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, Spark damage, OD gauge, Light elemental damage, activates Light barrier, raises allies from KO, 80% KO resistance, 100% damage reduction, 100% DoT reduction & damage taken boosts BB gauge",
+        "name":"Heavensward Eternity",
+        "pair":[
+            "850628",
+            "850568"
+        ],
+        "synergy":"Aurora"
+    },
+    "3850708":{
+        "desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Atk relative to max HP, Spark damage, Light elemental damage, Spark vulnerability infliction, OD gauge fill rate, adds status ailment infliction to attack & raises normal hit amount",
+        "name":"Foregone Fates",
+        "pair":[
+            "850708",
+            "850278"
+        ],
+        "synergy":"Aurora"
+    },
+    "3850758":{
+        "desc":"56 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, spark critical, spark vulnerability infliction, spark damage boosts BB gauge, damage taken boosts BB gauge and restores HP, inflicts Atk, Def reduction & activates BB/SBB/UBB twice",
+        "name":"Final Flourish!",
+        "pair":[
+            "850758",
+            "830658"
+        ],
+        "synergy":"Prism"
+    },
+    "3850788":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, critical damage, spark damage, damage against status afflicted foes, Atk, Def relative to max HP, adds status ailment infliction to attack, inflicts Atk, Def reduction & fully restores HP",
+        "name":"Flamenco Rigor",
+        "pair":[
+            "850788",
+            "830788"
+        ],
+        "synergy":"Prism"
+    },
+    "3850798":{
+        "desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, crit damage, spark damage, Light, Fire elemental damage, BB gauge, 100% damage reduction & 80% KO resistance",
+        "name":"Transdimensional Echo",
+        "pair":[
+            "850798",
+            "810798"
+        ],
+        "synergy":"Nova"
+    },
+    "3850808":{
+        "desc":"66 combo grand dual attack on all foes (damage relative to remaining HP), boosts  Atk, Def, Rec, critical hit rate, BB gauge, OD gauge, Light, Dark elemental damage, damage taken boosts BB gauge and restores HP, 100% raises allies from KO, 80% KO resistance & 100% damage reduction",
+        "name":"Beauty and the Brains",
+        "pair":[
+            "850808",
+            "860808"
+        ],
+        "synergy":"Twilight"
+    },
+    "3850828":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP),boosts spark damage, critical damage, spark critical, damage against status afflicted foes, Def relative to Atk, 100% raises allies from KO, adds status ailment infliction to attack, inflicts Atk, Def reduction, damage taken inflicts Atk, Def reduction & 100% evasion",
+        "name":"Queen of the Walk",
+        "pair":[
+            "850828",
+            "820048"
+        ],
+        "synergy":"Mist"
+    },
+    "3850858":{
+        "desc":"66 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, BB gauge, OD gauge, damage taken boosts BB gauge and restores HP, 100% damage reduction, 80% KO resistance & activates BB/SBB/UBB twice",
+        "name":"Grandiose Finish",
+        "pair":[
+            "850858",
+            "850808"
+        ],
+        "synergy":"Aurora"
+    },
+    "3860018":{
+        "desc":"64 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, OD gauge, OD gauge fill rate, 100% damage reduction, 100% DoT reduction, negates critical and elemental damage, activates Light barrier & purges LS Lock and DoT effects",
+        "name":"Elysia Eternal",
+        "pair":[
+            "860018",
+            "850018"
+        ],
+        "synergy":"Twilight"
+    },
+    "3860258":{
+        "desc":"34 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical damage, spark damage, BB gauge to max, max HP and KO resistance for self, raises normal hit amount & inflicts Atk, Def reduction ",
+        "name":"Spectral Starfade",
+        "pair":[
+            "860258",
+            "860148"
+        ],
+        "synergy":"Abyss"
+    },
+    "3860518":{
+        "desc":"52 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, critical hit rate, critical damage, Spark damage, BC, HC drop rate, Dark elemental damage, 85% activates BB/SBB/UBB twice, fully restores HP & 80% raises allies from KO",
+        "name":"Soul-Sucking Boolevard",
+        "pair":[
+            "860518",
+            "860108"
+        ],
+        "synergy":"Abyss"
+    },
+    "3860578":{
+        "desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, spark damage, Atk, Def, Rec relative to max HP, Earth, Dark elemental damage, BB gauge, raises allies from KO, 100% Light, Dark damage reduction & activates BB/SBB/UBB twice",
+        "name":"Ineffable Providence",
+        "pair":[
+            "860578",
+            "830798"
+        ],
+        "synergy":"Obsidian"
+    },
+    "3860688":{
+        "desc":"72 combo grand dual attack on all foes (damage relative to remaining HP), boosts Earth, Dark elemental damage, spark damage, max HP, 100% damage reduction, 100% DoT reduction, 80% raises allies from KO, 80% KO resistance, activates BB/SBB/UBB twice, inflicts Atk, Def reduction & purges LS, ES Lock",
+        "name":"Sekhem",
+        "pair":[
+            "860688",
+            "830688"
+        ],
+        "synergy":"Obsidian"
+    },
+    "3860708":{
+        "desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def relative to max HP, critical damage, Dark elemental damage, max HP, 100% Light, Dark damage reduction, inflicts Atk, Def reduction & adds status ailment infliction to attack",
+        "name":"Stygian Despair",
+        "pair":[
+            "860708",
+            "860278"
+        ],
+        "synergy":"Abyss"
+    },
+    "3860828":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, critical hit rate, critical damage, spark damage, 100% DoT reduction, spark damage restores HP, raises normal hit amount, normal attacks hit all foes & inflicts Atk, Def reduction",
+        "name":"Vestige of Embers",
+        "pair":[
+            "860828",
+            "810048"
+        ],
+        "synergy":"Pyre"
+    },
+    "3860868":{
+        "desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Def relative to Atk, spark damage, Thunder, Dark elemental damage, OD gauge, damage taken boosts BB gauge, inflicts Atk, Def reduction, 100% damage reduction & 100% evasion",
+        "name":"Tabula Rasa",
+        "pair":[
+            "860868",
+            "840878"
+        ],
+        "synergy":"Cyclone"
+    },
+    "4810858":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, critical damage, spark damage, Fire elemental damage, Atk, Def, Rec relative to max HP, damage taken boosts BB gauge and restores HP & 100% DoT reduction",
+        "name":"Legacy of Akras",
+        "pair":[
+            "810858",
+            "810808"
+        ],
+        "synergy":"Blaze"
+    },
+    "4810908":{
+        "desc":"66 combo grand dual attack on all foes (damage relative to remaining HP), boosts Fire, Thunder elemental damage, spark damage, BB Atk, Atk, Def, Rec relative to max HP, 100% evasion, damage taken boosts BB gauge, activates Fire barrier, 100% damage reduction & 100% DoT reduction",
+        "name":"Crowning Glory",
+        "pair":[
+            "810908",
+            "840798"
+        ],
+        "synergy":"Blast"
+    },
+    "4820688":{
+        "desc":"70 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec and critical rate, Water, Thunder elemental damage, spark damage, critical damage, max HP, fills BB gauge, 100% damage reduction & purges LS and ES Lock",
+        "name":"Weshem-ib",
+        "pair":[
+            "820688",
+            "840688"
+        ],
+        "synergy":"Tempest"
+    },
+    "4850628":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, spark damage boosts BB gauge, 100% raises allies from KO, 80% KO resistance, fully restores HP, activates Light barrier & 100% DoT reduction",
+        "name":"Ephemeral Gold",
+        "pair":[
+            "850628",
+            "840628"
+        ],
+        "synergy":"Radiance"
+    }
+}
