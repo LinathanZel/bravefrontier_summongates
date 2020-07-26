@@ -3,5 +3,31 @@
 		"name": "Passives",
 		"desc": "Outputs passive values of a unit. Defaults to damage passives.\n\nThis command can accept additional arguments found below:\n• \"--damage\" to show damage passives.\n• \"--miti\" or \"mitigation\" to show passive mitigation values.",
 		"usage":"<unit_name/unit_id>"
+	},
+	"summon":{
+		"name": "Summon Simulator",
+		"desc": "Test your luck using the Summon Simulator! Outputs a random unit that can be summonable from the selected summon gate, replicating the rates showcased in the Global version of the game.\n\n\"h/summon\" standalone will list all available summon gates, along with any custom summon gates if any. Additional arguments can be entered to summon units:\n\n• \"reset\" resets your summon steps and results on the selected gate.\n• \"results\" shows your summon results of the selected gate.",
+		"usage":"<summon_gate_id> [reset/results] [page_number (available only with the \"results\" argument)]"
+	},
+	"8ball":{
+		"name":"The 8 Ball",
+		"desc":"Outputs a quote chosen at random. No additional arguments required.",
+		"usage":""
+	},
+	"choose":{
+		"name":"Choose",
+		"desc":"Outputs a choice at random. Choices are split for each `|` instance. Fails if only one choice is given.",
+		"usage":"<choice_1> | <choice_2> ...",
+		"example":"Apple | Orange | Peach"
+	},
+	"astrid":{
+		"name":"Astrid",
+		"desc":"<:AstridWah:729968770247950377>",
+		"usage":""
+	},
+	"client":{
+		"name":"Client",
+		"desc":"Shows the current client version of the game.",
+		"usage":""
 	}
 }
