@@ -1,8 +1,9 @@
 {
 	"passives":{
 		"name": "Passives",
-		"desc": "Outputs passive values of a unit. Defaults to damage passives.\n\nThis command can accept additional arguments found below:\n• \"--damage\" to show damage passives.\n• \"--miti\" or \"mitigation\" to show passive mitigation values.",
-		"usage":"<unit_name/unit_id>"
+		"desc": "Outputs all passives of a unit.\n\nThis command can accept additional arguments found below:\n• \"--damage\" to show damage passives.\n• \"--miti\" or \"mitigation\" to show passive mitigation values.",
+		"usage":"<unit_name/unit_id>",
+		"category":"Unit Info"
 	},
 	"summon":{
 		"name": "Summon Simulator",
