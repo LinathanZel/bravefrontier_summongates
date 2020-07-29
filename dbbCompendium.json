@@ -772,5 +772,23 @@
             "840628"
         ],
         "synergy":"Radiance"
+    },
+    "3820418":{
+        "desc":"62 combo grand dual attack on all foes (damage relative to remaining HP), boosts BB Atk, max HP, Atk, Def relative to max HP, damage against status afflicted foes, adds status ailment infliction to attack, fully restores HP, activates water barrier, 100% damage reduction & fills OD gauge at turn's end",
+        "name":"Hunt Across Fate-Time",
+        "pair":[
+            "820418",
+            "830418"
+        ],
+        "synergy":"Quagmire"
+    },
+    "3820938":{
+        "desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, spark damage, critical damage, BB gauge, spark vulnerability infliction, 100% evasion, inflicts Atk, Def reduction, fully restores HP & 100% raises allies from KO",
+        "name":"Vow of the Phillarm Cross",
+        "pair":[
+            "820938",
+            "820948"
+        ],
+        "synergy":"Tsunami"
     }
 }
