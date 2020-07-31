@@ -1,34 +1,160 @@
 {
+	"unit":{
+		"name": "Unit",
+		"desc": "Outputs all available skills of a unit, including Leader Skill, Extra Skill, Brave Burst, Super Brave Burst, and Ultimate Brave Burst.\n\nThis does not include any buff values. See \"h/help bb\" for more info.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/unit vargas\nh/unit lunaris rarity:6\nh/unit nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"ls":{
+		"name": "Leader Skill",
+		"desc": "Outputs details of the unit's Leader Skill, including passive values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"element:\" to filter units searched based on element",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/ls vargas\nh/ls lunaris rarity:6\nh/ls nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"leader":{
+		"name": "Leader Skill",
+		"desc": "Outputs details of the unit's Leader Skill, including passive values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"element:\" to filter units searched based on element",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/ls vargas\nh/ls lunaris rarity:6\nh/ls nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"es":{
+		"name": "Leader Skill",
+		"desc": "Outputs details of the unit's Extra Skill, including passive values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"element:\" to filter units searched based on element",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/es vargas\nh/es lunaris rarity:7\nh/es nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"extra":{
+		"name": "Leader Skill",
+		"desc": "Outputs details of the unit's Extra Skill, including passive values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"element:\" to filter units searched based on element",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/es vargas\nh/es lunaris rarity:7\nh/es nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"bb":{
+		"name": "Brave Burst",
+		"desc": "Outputs details of the unit's Brave Burst, including buff values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"element:\" to filter units searched based on element\n• \"--frames\" to output the frame data of the unit outputted",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>] [--frames]",
+		"example":"h/bb vargas\nh/bb lunaris rarity:6\nh/bb nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"sbb":{
+		"name": "Super Brave Burst",
+		"desc": "Outputs details of the unit's Super Brave Burst, including buff values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"element:\" to filter units searched based on element\n• \"--frames\" to output the frame data of the unit outputted",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>] [--frames]",
+		"example":"h/sbb vargas\nh/sbb lunaris rarity:6\nh/sbb nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"ubb":{
+		"name": "Ultimate Brave Burst",
+		"desc": "Outputs details of the unit's Ultimate Brave Burst, including buff values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"element:\" to filter units searched based on element\n• \"--frames\" to output the frame data of the unit outputted",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>] [--frames]",
+		"example":"h/sbb vargas\nh/sbb lunaris rarity:6\nh/sbb nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"dbb":{
+		"name": "Dual Brave Burst",
+		"desc": "Outputs details of the Dual Brave Burst of the unit, bond pair, or burst name, including buff values.\n\nAdditional arguments are supported for this command, including:\n• \"--frames\" to output the frame data of the DBB outputted",
+		"usage":"<unit_name/unit_id/burst_name> [unit_name/unit_id] [--frames]",
+		"example":"h/ubb vargas\nh/ubb lunaris rarity:6\nh/ubb nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"synergy":{
+		"name": "Elemental Synergy",
+		"desc": "Outputs details of the Elemental Synergy outputted.\n\nThis command can also take units of a bond pair as input to output their Elementl Synergy, similar to h/dbb.",
+		"usage":"<synergy_name/unit_name/unit_id/burst_name/> [unit_name/unit_id]",
+		"example":"h/synergy obsidian\nh/synergy astrid raquiel\nh/synergy helios ascendant",
+		"category":"Effects Info"
+	},
+	"cost":{
+		"name": "Cost",
+		"desc": "Outputs the unit's cost. Also lists which classes of Colosseum the unit is legal to use in.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/cost vargas\nh/cost lunaris rarity:6\nh/cost nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"rarity":{
+		"name": "Cost",
+		"desc": "Outputs the unit's rarity.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/rarity vargas\nh/rarity lunaris rarity:6\nh/rarity nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"gender":{
+		"name": "Gender",
+		"desc": "Outputs the unit's gender.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/gender vargas\nh/gender lunaris rarity:6\nh/gender nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"elgif":{
+		"name": "Elgif",
+		"desc": "Outputs details of the Elgif outputted.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/gender vargas\nh/gender lunaris rarity:6\nh/gender nyami rarity:8 element:fire",
+		"category":"Item/Elgif Info"
+	},
+	"buff":{
+		"name": "Buffs",
+		"desc": "Outputs all buffs available in the game. If a unit is inputted as an argument, this outputs all buffs provided by the unit instead.",
+		"usage":"[unit_name/unit_id] [rarity:<1-8>] [element:<element>]",
+		"example":"h/buffs\nh/buffs vargas\nh/buffs lunaris rarity:6\nh/buffs nyami rarity:8 element:fire",
+		"category":"Effects Info"
+	},
+	"buffs":{
+		"name": "Buffs",
+		"desc": "Outputs all buffs available in the game. If a unit is inputted as an argument, this outputs all buffs provided by the unit instead.",
+		"usage":"[unit_name/unit_id] [rarity:<1-8>] [element:<element>]",
+		"example":"h/buffs\nh/buffs vargas\nh/buffs lunaris rarity:6\nh/buffs nyami rarity:8 element:fire",
+		"category":"Effects Info"
+	},
+	"passive":{
+		"name": "Passives",
+		"desc": "Outputs all passives available in the game. If a unit is inputted as an argument, this outputs all passives of a unit instead.\n\nThis command can accept additional arguments found below:\n• \"--damage\" to show damage passives.\n• \"--miti\" or \"mitigation\" to show passive mitigation values.",
+		"usage":"[unit_name/unit_id] [rarity:<1-8>] [element:<element>] [--miti/--mitigation/--damage]",
+		"example":"h/passives\nh/passives vargas\nh/passives lunaris rarity:6\nh/passives nyami rarity:8 element:fire",
+		"category":"Effects Info"
+	},
 	"passives":{
 		"name": "Passives",
-		"desc": "Outputs all passives of a unit.\n\nThis command can accept additional arguments found below:\n• \"--damage\" to show damage passives.\n• \"--miti\" or \"mitigation\" to show passive mitigation values.",
-		"usage":"<unit_name/unit_id>",
-		"category":"Unit Info"
+		"desc": "Outputs all passives available in the game. If a unit is inputted as an argument, this outputs all passives of a unit instead.\n\nThis command can accept additional arguments found below:\n• \"--damage\" to show damage passives.\n• \"--miti\" or \"mitigation\" to show passive mitigation values.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>] [--miti/--mitigation/--damage]",
+		"example":"h/passives vargas\nh/passives lunaris rarity:6\nh/passives nyami rarity:8 element:fire",
+		"category":"Effects Info"
 	},
 	"summon":{
 		"name": "Summon Simulator",
 		"desc": "Test your luck using the Summon Simulator! Outputs a random unit that can be summonable from the selected summon gate, replicating the rates showcased in the Global version of the game.\n\n\"h/summon\" standalone will list all available summon gates, along with any custom summon gates if any. Additional arguments can be entered to summon units:\n\n• \"reset\" resets your summon steps and results on the selected gate.\n• \"results\" shows your summon results of the selected gate.",
-		"usage":"<summon_gate_id> [reset/results] [page_number (available only with the \"results\" argument)]"
+		"usage":"<summon_gate_id> [reset/results] [page_number (available only with the \"results\" argument)]",
+		"example":"h/summon 1\nh/summon 1 results 1",
+		"category":"Miscellaneous Info"
 	},
 	"8ball":{
 		"name":"The 8 Ball",
 		"desc":"Outputs a quote chosen at random. No additional arguments required.",
-		"usage":""
+		"usage":"",
+		"category":"Miscellaneous Info"
 	},
 	"choose":{
 		"name":"Choose",
 		"desc":"Outputs a choice at random. Choices are split for each `|` instance. Fails if only one choice is given.",
 		"usage":"<choice_1> | <choice_2> ...",
-		"example":"Apple | Orange | Peach"
+		"example":"Apple | Orange | Peach",
+		"category":"Miscellaneous Info"
 	},
 	"astrid":{
 		"name":"Astrid",
 		"desc":"<:AstridWah:729968770247950377>",
-		"usage":""
+		"usage":"",
+		"category":"Miscellaneous Info"
 	},
 	"client":{
 		"name":"Client",
 		"desc":"Shows the current client version of the game.",
-		"usage":""
+		"usage":"",
+		"category":"Miscellaneous Info"
 	}
 }
