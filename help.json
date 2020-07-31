@@ -21,14 +21,14 @@
 		"category":"Unit Info"
 	},
 	"es":{
-		"name": "Leader Skill",
+		"name": "Extra Skill",
 		"desc": "Outputs details of the unit's Extra Skill, including passive values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"element:\" to filter units searched based on element",
 		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
 		"example":"h/es vargas\nh/es lunaris rarity:7\nh/es nyami rarity:8 element:fire",
 		"category":"Unit Info"
 	},
 	"extra":{
-		"name": "Leader Skill",
+		"name": "Extra Skill",
 		"desc": "Outputs details of the unit's Extra Skill, including passive values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"element:\" to filter units searched based on element",
 		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
 		"example":"h/es vargas\nh/es lunaris rarity:7\nh/es nyami rarity:8 element:fire",
@@ -62,6 +62,13 @@
 		"example":"h/ubb vargas\nh/ubb lunaris rarity:6\nh/ubb nyami rarity:8 element:fire",
 		"category":"Unit Info"
 	},
+	"sp":{
+		"name": "SP Enhancements",
+		"desc": "Outputs details of the unit's SP Enhancements, including buff and passive values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity (note all units with SP are currently Omni only)\n• \"element:\" to filter units searched based on element",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/sp vargas\nh/sp astrid\nh/sp nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
 	"synergy":{
 		"name": "Elemental Synergy",
 		"desc": "Outputs details of the Elemental Synergy outputted.\n\nThis command can also take units of a bond pair as input to output their Elementl Synergy, similar to h/dbb.",
@@ -90,11 +97,88 @@
 		"example":"h/gender vargas\nh/gender lunaris rarity:6\nh/gender nyami rarity:8 element:fire",
 		"category":"Unit Info"
 	},
+	"lore":{
+		"name": "Lore",
+		"desc": "Outputs the unit's lore and quotes.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/lore vargas\nh/lore lunaris rarity:6\nh/lore nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"move":{
+		"name": "Movement",
+		"desc": "Outputs animation frame and movement data of a unit.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/move vargas\nh/move astrid rarity:7\nh/move nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"movement":{
+		"name": "Movement",
+		"desc": "Outputs animation frame and movement data of a unit.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/move vargas\nh/move astrid rarity:7\nh/move nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"stat":{
+		"name": "Stat Parameters",
+		"desc": "Outputs base stats of a unit, including typings.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/stat vargas\nh/stat astrid rarity:7\nh/stat nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"stats":{
+		"name": "Stat Parameters",
+		"desc": "Outputs base stats of a unit, including typings.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/stats vargas\nh/stats astrid rarity:7\nh/stats nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"imp":{
+		"name": "Stat Parameters",
+		"desc": "Outputs imp stats of a unit.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/imp vargas\nh/imp astrid rarity:7\nh/imp nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"imps":{
+		"name": "Stat Parameters",
+		"desc": "Outputs imp stats of a unit.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/imps vargas\nh/imps astrid rarity:7\nh/imps nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"item":{
+		"name": "Item",
+		"desc": "Outputs details of the item outputted. Does not work for spheres, as h/sphere is used for that instead.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity",
+		"usage":"<item_name/item_id> [rarity:<1-8>]",
+		"example":"h/item green grass",
+		"category":"Item/Elgif Info"
+	},
+	"sphere":{
+		"name": "Sphere",
+		"desc": "Outputs details of the sphere outputted. Does not work for items, as h/item is used for that instead.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity",
+		"usage":"<item_name/item_id> [rarity:<1-8>]",
+		"example":"h/item heaven's edge",
+		"category":"Item/Elgif Info"
+	},
+	"recipe":{
+		"name": "Recipe",
+		"desc": "Outputs the crafting recipe of the item or sphere outputted.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"--basemats\" to output all base materials required for crafting",
+		"usage":"<item_name/item_id> [rarity:<1-8>] [--basemats]",
+		"example":"h/recipe victory chant\nh/recipe beiorg's armor --basemats",
+		"category":"Item/Elgif Info"
+	},
+	"material":{
+		"name": "Material",
+		"desc": "Outputs the items and spheres that the inputted material can craft into, as well as the quantity required.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity",
+		"usage":"<item_name/item_id> [rarity:<1-8>]",
+		"example":"h/material victory chant",
+		"category":"Item/Elgif Info"
+	},
 	"elgif":{
 		"name": "Elgif",
 		"desc": "Outputs details of the Elgif outputted.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity",
-		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
-		"example":"h/gender vargas\nh/gender lunaris rarity:6\nh/gender nyami rarity:8 element:fire",
+		"usage":"<elgif_name/elgif_id> [rarity:<1-8>]",
+		"example":"h/elgif master of the hunt\nh/elgif tablet of ruin rarity:5",
 		"category":"Item/Elgif Info"
 	},
 	"buff":{
@@ -125,11 +209,78 @@
 		"example":"h/passives vargas\nh/passives lunaris rarity:6\nh/passives nyami rarity:8 element:fire",
 		"category":"Effects Info"
 	},
+	"squad":{
+		"name": "Squad",
+		"desc": "Outputs all buffs of the squad inputted, as well as missing recommended buffs. Can only accept a maximum of six units in a squad.\n\nThis command can accept additional arguments found below:\n• \"--ubb\" to show UBB buffs.\n• \"--full\" to show full names of units.",
+		"usage":"<unit_name/unit_id> [unit_name/unit_id] ...",
+		"example":"h/squad thoth, aoife, astrid, sennie, jin, thoth\nh/squad avyn, peter, kelsa, vanila, sero-anya, hakuzo --ubb",
+		"category":"Effects Info"
+	},
 	"summon":{
 		"name": "Summon Simulator",
 		"desc": "Test your luck using the Summon Simulator! Outputs a random unit that can be summonable from the selected summon gate, replicating the rates showcased in the Global version of the game.\n\n\"h/summon\" standalone will list all available summon gates, along with any custom summon gates if any. Additional arguments can be entered to summon units:\n\n• \"reset\" resets your summon steps and results on the selected gate.\n• \"results\" shows your summon results of the selected gate.",
 		"usage":"<summon_gate_id> [reset/results] [page_number (available only with the \"results\" argument)]",
 		"example":"h/summon 1\nh/summon 1 results 1",
+		"category":"Miscellaneous Info"
+	},
+	"art":{
+		"name": "Unit Gallery",
+		"desc": "Outputs the artwork of the inputted unit.\n\nThis command can accept additional arguments found below:\n• \"rarity\" to filter units searched by rarity\n• \"--altart\" or \"alt\" to show the alternate artwork of the unit outputted, if any",
+		"usage":"<unit_name/unit_id> [--alt/--altart]",
+		"example":"h/art astrid\nh/art inoko --altart\nh/art feeva rarity:7 --altart",
+		"category":"Miscellaneous Info"
+	},
+	"artwork":{
+		"name": "Unit Gallery",
+		"desc": "Outputs the artwork of the inputted unit.\n\nThis command can accept additional arguments found below:\n• \"rarity\" to filter units searched by rarity\n• \"--altart\" or \"alt\" to show the alternate artwork of the unit outputted, if any",
+		"usage":"<unit_name/unit_id> [--alt/--altart]",
+		"example":"h/art astrid\nh/art inoko --altart\nh/art feeva rarity:7 --altart",
+		"category":"Miscellaneous Info"
+	},
+	"gallery":{
+		"name": "Unit Gallery",
+		"desc": "Outputs the artwork of the inputted unit.\n\nThis command can accept additional arguments found below:\n• \"rarity\" to filter units searched by rarity\n• \"--altart\" or \"alt\" to show the alternate artwork of the unit outputted, if any",
+		"usage":"<unit_name/unit_id> [--alt/--altart]",
+		"example":"h/art astrid\nh/art inoko --altart\nh/art feeva rarity:7 --altart",
+		"category":"Miscellaneous Info"
+	},
+	"wiki":{
+		"name":"Wiki",
+		"desc":"Outputs a link to Brave Frontier Wiki based on input. Most wiki pages are case-sensitive. This command also works without h/.",
+		"usage":"Spirit Conjurer Astrid",
+		"example":"h/wiki Spirit Conjurer Astrid\nh/wiki hsg",
+		"category":"Miscellaneous Info"
+	},
+	"search":{
+		"name":"Search",
+		"desc":"A multi-purpose search function that searches all results of a certain instance that contain certain parameters.\n\nSecond arguments of this command include the following:\n• \"unit\" or \"units\" to search units\n• \"bb\", \"sbb\" and/or \"ubb\" to search units with buffs limited to a certain skill\n• \"ls\", \"es\" and/or \"sp\" to search units with buffs and passives limited to a certain passive skill\n• \"sphere\", \"spheres\", \"item\" and/or \"items\" to search spheres with buffs and passives limited to a item/sphere\n• \"buff\" or \"buffs\" to search names of Active Effects containing the keywords inputted\n• \"passive\" or \"passives\" to search names of Passive Effects containing the keywords inputted.\n\nMultiple buffs and passives can be searched at once.",
+		"usage":"[unit/ls/es/sp/bb/sbb/ubb/buff/passive] [additional arguments] ...",
+		"example":"h/search unit element:fire buff:43 rarity:8 (searches all Fire units with Instant OD Fill in kit)\nh/search bb,sbb,sp element:water buff:43 passive:31 (searches all Water units with Instant OD Fill as an Active Effect and Spark Boost as a Passive Effect on BB, SBB and/or SP)\nh/search buff spark (searches all Active Effects with \"spark\" in their name)\nh/search passive dot (searches all Passive Effects with \"dot\" in their name)",
+		"category":"Miscellaneous Info"
+	},
+	"data":{
+		"name":"Datamine Reading",
+		"desc":"Used for looking up certain parameters of the bot's local datamine.\n\nThe following second arguments are supported (as well as third arguments if \"--full\" is used as the second argument):\n• \"unit\" or \"units\" for unit data\n• \"item\" or \"items\"\n• \"es\", \"elgif\" or \"elgifs\" for Extra Skill data\n• \"sp\" for SP Enhancement data\n• \"dbb\" for Dual Brave Burst data\n• \"synergy\" for Elemental Synergy data\n• \"evo\" or \"evolution\" for Evolution data",
+		"usage":"[--full] <datamine_type> [parameters]",
+		"example":"h/data --full unit 10017/sbb/levels/9/effects",
+		"category":"Miscellaneous Info"
+	},
+	"waifu":{
+		"name":"Waifu",
+		"desc":"Outputs a random female unit.",
+		"usage":"",
+		"category":"Miscellaneous Info"
+	},
+	"husbando":{
+		"name":"Husbando",
+		"desc":"Outputs a random male unit.",
+		"usage":"",
+		"category":"Miscellaneous Info"
+	},
+	"genderless":{
+		"name":"Genderless",
+		"desc":"Outputs a random genderless unit.",
+		"usage":"",
 		"category":"Miscellaneous Info"
 	},
 	"8ball":{
@@ -142,12 +293,18 @@
 		"name":"Choose",
 		"desc":"Outputs a choice at random. Choices are split for each `|` instance. Fails if only one choice is given.",
 		"usage":"<choice_1> | <choice_2> ...",
-		"example":"Apple | Orange | Peach",
+		"example":"h/choose Apple | Orange | Peach",
 		"category":"Miscellaneous Info"
 	},
 	"astrid":{
 		"name":"Astrid",
 		"desc":"<:AstridWah:729968770247950377>",
+		"usage":"",
+		"category":"Miscellaneous Info"
+	},
+	"time":{
+		"name":"Time",
+		"desc":"Shows the current server time of the game.",
 		"usage":"",
 		"category":"Miscellaneous Info"
 	},
