@@ -313,11 +313,5 @@
 		"desc":"Shows the current client version of the game.",
 		"usage":"",
 		"category":"Miscellaneous Info"
-	},
-	"test":{
-		"name":"Client",
-		"desc":"Shows the current client version of the game.",
-		"usage":"",
-		"category":"Miscellaneous Info"
 	}
 }
