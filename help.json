@@ -6,6 +6,13 @@
 		"example":"h/unit vargas\nh/unit lunaris rarity:6\nh/unit nyami rarity:8 element:fire",
 		"category":"Unit Info"
 	},
+	"info":{
+		"name": "Unit",
+		"desc": "Outputs all available skills of a unit, including Leader Skill, Extra Skill, Brave Burst, Super Brave Burst, and Ultimate Brave Burst.\n\nThis does not include any buff values. See \"h/help bb\" for more info.",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/info vargas\nh/info lunaris rarity:6\nh/info nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
 	"ls":{
 		"name": "Leader Skill",
 		"desc": "Outputs details of the unit's Leader Skill, including passive values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"element:\" to filter units searched based on element",
@@ -230,6 +237,13 @@
 		"example":"h/squad thoth, aoife, astrid, sennie, jin, thoth\nh/squad avyn, peter, kelsa, vanila, sero-anya, hakuzo --ubb",
 		"category":"Effects Info"
 	},
+	"weapon":{
+		"name": "Weapon",
+		"desc": "Outputs details of the Summoner Weapon inputted.",
+		"usage":"<weapon_name/weapon_id>",
+		"example":"h/weapon brave sword",
+		"category":"Summoner Avatar Info"
+	},
 	"summon":{
 		"name": "Summon Simulator",
 		"desc": "Test your luck using the Summon Simulator! Outputs a random unit that can be summonable from the selected summon gate, replicating the rates showcased in the Global version of the game.\n\n\"h/summon\" standalone will list all available summon gates, along with any custom summon gates if any. Additional arguments can be entered to summon units:\n\n• \"reset\" resets your summon steps and results on the selected gate.\n• \"results\" shows your summon results of the selected gate.",
@@ -325,6 +339,18 @@
 	"client":{
 		"name":"Client",
 		"desc":"Shows the current client version of the game.",
+		"usage":"",
+		"category":"Miscellaneous Info"
+	},
+	"credit":{
+		"name":"Credits",
+		"desc":"Shows those who have helped to contribute towards the Hamzabot Project throughout the course of its development.",
+		"usage":"",
+		"category":"Miscellaneous Info"
+	},
+	"credits":{
+		"name":"Credits",
+		"desc":"Shows those who have helped to contribute towards the Hamzabot Project throughout the course of its development.",
 		"usage":"",
 		"category":"Miscellaneous Info"
 	}
