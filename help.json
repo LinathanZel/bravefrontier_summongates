@@ -69,6 +69,20 @@
 		"example":"h/sp vargas\nh/sp astrid\nh/sp nyami rarity:8 element:fire",
 		"category":"Unit Info"
 	},
+	"normal":{
+		"name": "Normal Attack",
+		"desc": "Outputs the frame data of the unit's normal attack\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"element:\" to filter units searched based on element",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/normal vargas\nh/normal astrid\nh/normal nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
+	"natk":{
+		"name": "Normal Attack",
+		"desc": "Outputs the frame data of the unit's normal attack\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity\n• \"element:\" to filter units searched based on element",
+		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
+		"example":"h/natk vargas\nh/natk astrid\nh/natk nyami rarity:8 element:fire",
+		"category":"Unit Info"
+	},
 	"synergy":{
 		"name": "Elemental Synergy",
 		"desc": "Outputs details of the Elemental Synergy outputted.\n\nThis command can also take units of a bond pair as input to output their Elementl Synergy, similar to h/dbb.",
@@ -84,7 +98,7 @@
 		"category":"Unit Info"
 	},
 	"rarity":{
-		"name": "Cost",
+		"name": "Rarity",
 		"desc": "Outputs the unit's rarity.",
 		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
 		"example":"h/rarity vargas\nh/rarity lunaris rarity:6\nh/rarity nyami rarity:8 element:fire",
