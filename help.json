@@ -92,7 +92,7 @@
 	},
 	"synergy":{
 		"name": "Elemental Synergy",
-		"desc": "Outputs details of the Elemental Synergy outputted.\n\nThis command can also take units of a bond pair as input to output their Elementl Synergy, similar to h/dbb.",
+		"desc": "Outputs details of the Elemental Synergy outputted.\n\nThis command can also take units of a bond pair as input to output their Elemental Synergy, similar to h/dbb.",
 		"usage":"<synergy_name/unit_name/unit_id/burst_name/> [unit_name/unit_id]",
 		"example":"h/synergy obsidian\nh/synergy astrid raquiel\nh/synergy helios ascendant",
 		"category":"Effects Info"
