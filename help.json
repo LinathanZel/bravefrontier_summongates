@@ -71,7 +71,7 @@
 	},
 	"sp":{
 		"name": "SP Enhancements",
-		"desc": "Outputs details of the unit's SP Enhancements, including buff and passive values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity (note all units with SP are currently Omni only)\n• \"element:\" to filter units searched based on element\n• \"--novalues:\" to hide all buff and passive values",
+		"desc": "Outputs details of the unit's SP Enhancements, including buff and passive values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity (note all units with SP are currently Omni only)\n• \"element:\" to filter units searched based on element\n• \"--novalues\" to hide all buff and passive values",
 		"usage":"<unit_name/unit_id> [rarity:<1-8>] [element:<element>]",
 		"example":"h/sp vargas\nh/sp astrid\nh/sp nyami rarity:8 element:fire",
 		"category":"Unit Info"
