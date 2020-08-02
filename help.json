@@ -288,7 +288,7 @@
 	},
 	"data":{
 		"name":"Datamine Reading",
-		"desc":"Used for looking up certain parameters of the bot's local datamine.\n\nThe following second arguments are supported (as well as third arguments if \"--full\" is used as the second argument):\n• \"unit\" or \"units\" for unit data\n• \"item\" or \"items\"\n• \"es\", \"elgif\" or \"elgifs\" for Extra Skill data\n• \"sp\" for SP Enhancement data\n• \"dbb\" for Dual Brave Burst data\n• \"synergy\" for Elemental Synergy data\n• \"evo\" or \"evolution\" for Evolution data",
+		"desc":"Used for looking up certain parameters of the bot's local datamine.\n\nThe following second arguments are supported (as well as third arguments if \"--full\" is used as the second argument):\n• \"unit\" or \"units\" for unit data\n• \"item\" or \"items\" for item data\n• \"es\", \"elgif\" or \"elgifs\" for Extra Skill data\n• \"sp\" for SP Enhancement data\n• \"dbb\" for Dual Brave Burst data\n• \"synergy\" for Elemental Synergy data\n• \"evo\" or \"evolution\" for Evolution data",
 		"usage":"[--full] <datamine_type> [parameters]",
 		"example":"h/data --full unit 10017/sbb/levels/9/effects",
 		"category":"Miscellaneous Info"
