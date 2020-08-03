@@ -1,0 +1,266 @@
+{
+	"bread": {
+		"link":"Bloodpoison Florence"
+	},
+	"ophi": {
+		"link":"Zodiacal Apex Ophiuchus"
+	},
+	"flo": {
+		"link":"Bloodpoison Florence"
+	},
+	"raho": {
+		"link":"Sunless Warden Rahotep"
+	},
+	"saer": {
+		"link":"Abyssherald Saerenthis"
+	},
+	"vivi": {
+		"link":"Saviors Viviane & Orah"
+	},
+	"tso": {
+		"link":"Endless Abyss Tsovinar"
+	},
+	"tsov": {
+		"link":"Endless Abyss Tsovinar"
+	},
+	"twinku": {
+		"link":"Twinkle Snow Miku (Omni)"
+	},
+	"hete": {
+		"link":"Divine Rogue Hetepheres"
+	},
+	"zeru": {
+		"link":"Infinity Starsage Zeruiah"
+	},
+	"ww": {
+		"link":"Nicholas D. Wolfwood"
+	},
+	"gwen": {
+		"link":"Enhanced Being Gwenevere"
+	},
+	"senku": {
+		"link":"Senbonzakura Miku (Omni)"
+	},
+	"senbon": {
+		"link":"Senbonzakura Miku (Omni)"
+	},
+	"khep": {
+		"link":"Dusk Star Khepratum"
+	},
+	"tev": {
+		"link":"Storm-Bringer Tevarius"
+	},
+	"teva": {
+		"link":"Storm-Bringer Tevarius"
+	},
+	"xe": {
+		"link":"Xenon & Estia"
+	},
+	"van": {
+		"link":"Gilded Seraph Vanila"
+	},
+	"perse": {
+		"link":"Bright Star Persenet"
+	},
+	"qt": {
+		"link":"Lunar Maiden QiuTong"
+	},
+	"snowku": {
+		"link":"Priestess Snow Miku (Omni)"
+	},
+	"chiz": {
+		"link":"Chizuru Kagura (Omni)"
+	},
+	"nef": {
+		"link":"Midnight Judge Neferet"
+	},
+	"kat": {
+		"link":"Executioner Katerin"
+	},
+	"illu": {
+		"link":"Fell Illucen & Illumina"
+	},
+	"kiel": {
+		"link":"Eternal Templar Kielazar"
+	},
+	"acno": {
+		"link":"Acnologia (Omni)"
+	},
+	"ygg": {
+		"link":"Yggdrasil"
+	},
+	"he": {
+		"link":"Heaven's Edge"
+	},
+	"so": {
+		"link":"Sky Orb"
+	},
+	"hb": {
+		"link":"Heaven-Binder"
+	},
+	"dp": {
+		"link":"Daltisk Phenomenon"
+	},
+	"ye": {
+		"link":"Yggdrasil Edict"
+	},
+	"re": {
+		"link":"Ragnarok Edict"
+	},
+	"fc": {
+		"link":"Formless Chroma"
+	},
+	"vc": {
+		"link":"Victory Chant"
+	},
+	"iw": {
+		"link":"Ihsir's Wiles"
+	},
+	"wiles": {
+		"link":"Ihsir's Wiles"
+	},
+	"lod": {
+		"link":"Lament of Dread"
+	},
+	"rs": {
+		"link":"List of Summonable Units"
+	},
+	"th": {
+		"link":"Thrilling Harmony"
+	},
+	"ob": {
+		"link":"Omniscient Blaster"
+	},
+	"dmg": {
+		"link":"Divine Master Gate"
+	},
+	"dmk": {
+		"link":"Divine Master Key"
+	},
+	"wog": {
+		"link":"Wrath of Grandt"
+	},
+	"gh": {
+		"link":"God Hunter"
+	},
+	"cunei": {
+		"link":"Cunei of Athum"
+	},
+	"mos": {
+		"link":"Mark of Spire"
+	},
+	"suzu": {
+		"link":"Kagura Suzu"
+	},
+	"sbv": {
+		"link":"Snowbound Victory"
+	},
+	"fv": {
+		"link":"Fiery Volt"
+	},
+	"yata": {
+		"link":"Yata no Kagami"
+	},
+	"vesper": {
+		"link":"Vesper Argentum"
+	},
+	"dm": {
+		"link":"Duskcrown Medal"
+	},
+	"al": {
+		"link":"Aqua Leafage"
+	},
+	"khons": {
+		"link":"Miracle of Khons"
+	},
+	"sm": {
+		"link":"Sage's Mercy"
+	},
+	"vaa": {
+		"link":"Vash's Angel Arm"
+	},
+	"punisher": {
+		"link":"The Punisher"
+	},
+	"moo": {
+		"link":"Memory of Orebus"
+	},
+	"omen": {
+		"link":"Omen of Nogreth"
+	},
+	"oon": {
+		"link":"Omen of Nogreth"
+	},
+	"fj": {
+		"link":"Final Judgment"
+	},
+	"ibr": {
+		"link":"Icy Battle Record"
+	},
+	"hsg": {
+		"link":"Heroic Spirit's Glory"
+	},
+	"hdp": {
+		"link":"Hidden Destructive Power"
+	},
+	"ebh": {
+		"link":"Earthbound Hex"
+	},
+	"moth": {
+		"link":"Master of the Hunt"
+	},
+	"elhaza": {
+		"link":"The Curse Master"
+	},
+	"el haza": {
+		"link":"The Curse Master"
+	},
+	"baragan": {
+		"link":"The Savage Lion"
+	},
+	"barragan": {
+		"link":"The Savage Lion"
+	},
+	"zaad": {
+		"link":"The Warmonger"
+	},
+	"zad": {
+		"link":"The Warmonger"
+	},
+	"zado": {
+		"link":"The Warmonger"
+	},
+	"melfel": {
+		"link":"The Illusionist"
+	},
+	"tgk": {
+		"link":"Traversing Eternity"
+	},
+	"god king": {
+		"link":"Traversing Eternity"
+	},
+	"the god king": {
+		"link":"Traversing Eternity"
+	},
+	"god-king": {
+		"link":"Traversing Eternity"
+	},
+	"tgk": {
+		"link":"Traversing Eternity"
+	},
+	"gr": {
+		"link":"Guild Raid"
+	},
+	"dbb": {
+		"link":"Bonding"
+	},
+	"colo": {
+		"link":"Colosseum"
+	},
+	"va": {
+		"link":"Vortex Arena"
+	},
+	"miti": {
+		"link":"Damage Mitigation"
+	}
+}
