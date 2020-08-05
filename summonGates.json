@@ -17,7 +17,7 @@
 		"name": "Heroes Across Time Summon",
 		"resetback": false
 	},
-	"Destiny Unite Summon (August 5, 2020)":{
+	"Destiny Unite Summon (Aug 5, 2020)":{
 		"rates": {
 			"pools": 4,
 			"pool 1": [4.0],
@@ -32,7 +32,7 @@
 			"pool 4": ["810105", "810315", "810417", "810437", "820315", "820417", "830505", "830417", "830437", "830315", "830325", "840115", "840315", "840417", "850155", "850417", "850315", "860105", "860255", "860315", "860417"]
 		},
 		"guaranteed": {},
-		"name": "Destiny Unite Summon (August 5, 2020)",
+		"name": "Destiny Unite Summon (Aug 5, 2020)",
 		"resetback": false
 	},
 	"Triple Strike Summon (Aug 5, 2020)":{
