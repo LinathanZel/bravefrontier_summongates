@@ -317,6 +317,12 @@
 		"usage":"",
 		"category":"Miscellaneous Info"
 	},
+	"dice":{
+		"name":"Dice",
+		"desc":"Outputs a random number from 1 to 6, inclusive. A second argument can be entered to roll a dice that many times.",
+		"usage":"[<number>]",
+		"category":"Miscellaneous Info"
+	},
 	"choose":{
 		"name":"Choose",
 		"desc":"Outputs a choice at random. Choices are split for each `|` instance. Fails if only one choice is given.",
