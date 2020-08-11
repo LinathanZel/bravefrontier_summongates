@@ -69,6 +69,20 @@
 		"example":"h/ubb vargas\nh/ubb lunaris rarity:6\nh/ubb nyami rarity:8 element:fire",
 		"category":"Unit Info"
 	},
+	"bbb":{
+		"name": "Bonded Brave Burst",
+		"desc": "If the inputted unit is part of a bond pair, it outputs details of the unit partner's Brave Burst, including buff values.",
+		"usage":"<unit_name/unit_id>",
+		"example":"h/bbb raquiel",
+		"category":"Unit Info"
+	},
+	"bsbb":{
+		"name": "Bonded Super Brave Burst",
+		"desc": "If the inputted unit is part of a bond pair, it outputs details of the unit partner's Super Brave Burst, including buff values.",
+		"usage":"<unit_name/unit_id>",
+		"example":"h/bsbb raquiel",
+		"category":"Unit Info"
+	},
 	"sp":{
 		"name": "SP Enhancements",
 		"desc": "Outputs details of the unit's SP Enhancements, including buff and passive values.\n\nAdditional arguments are supported for this command, including:\n• \"rarity:\" to filter units searched based on rarity (note all units with SP are currently Omni only)\n• \"element:\" to filter units searched based on element\n• \"--novalues\" to hide all buff and passive values",
@@ -246,9 +260,9 @@
 	},
 	"summon":{
 		"name": "Summon Simulator",
-		"desc": "Test your luck using the Summon Simulator! Outputs a random unit that can be summonable from the selected summon gate, replicating the rates showcased in the Global version of the game.\n\n\"h/summon\" standalone will list all available summon gates, along with any custom summon gates if any. Additional arguments can be entered to summon units:\n\n• \"reset\" resets your summon steps and results on the selected gate.\n• \"results\" shows your summon results of the selected gate.",
+		"desc": "Test your luck using the Summon Simulator! Outputs a random unit that can be summonable from the selected summon gate, replicating the rates showcased in the Global version of the game.\n\n\"h/summon\" standalone will list all available summon gates, along with any custom summon gates if any. Additional arguments can be entered to summon units:\n\n• \"reset\" resets your summon steps and results on the selected gate.\n• \"results\" shows your summon results of the selected gate.\n• Any number from 1-10 will summon that many times at one time.",
 		"usage":"<summon_gate_id> [reset/results] [page_number (available only with the \"results\" argument)]",
-		"example":"h/summon 1\nh/summon 1 results 1",
+		"example":"h/summon 1\nh/summon 1 10\nh/summon 1 results 1",
 		"category":"Miscellaneous Info"
 	},
 	"art":{
@@ -274,7 +288,7 @@
 	},
 	"wiki":{
 		"name":"Wiki",
-		"desc":"Outputs a link to Brave Frontier Wiki based on input. Most wiki pages are case-sensitive. This command also works without h/.",
+		"desc":"Outputs a link to Brave Frontier Wiki based on input. Most wiki pages are case-sensitive. This command also works by typing \"wikisearch\".",
 		"usage":"Spirit Conjurer Astrid",
 		"example":"h/wiki Spirit Conjurer Astrid\nh/wiki hsg",
 		"category":"Miscellaneous Info"
@@ -282,7 +296,7 @@
 	"search":{
 		"name":"Search",
 		"desc":"A multi-purpose search function that searches all results of a certain instance that contain certain parameters.\n\nSecond arguments of this command include the following:\n• \"unit\" or \"units\" to search units\n• \"bb\", \"sbb\" and/or \"ubb\" to search units with buffs limited to a certain skill\n• \"ls\", \"es\" and/or \"sp\" to search units with buffs and passives limited to a certain passive skill\n• \"sphere\", \"spheres\", \"item\" and/or \"items\" to search spheres with buffs and passives limited to a item/sphere\n• \"buff\" or \"buffs\" to search names of Active Effects containing the keywords inputted\n• \"passive\" or \"passives\" to search names of Passive Effects containing the keywords inputted.\n\nMultiple buffs and passives can be searched at once.",
-		"usage":"[unit/ls/es/sp/bb/sbb/ubb/buff/passive] [additional arguments] ...",
+		"usage":"[unit/ls/es/sp/bb/sbb/ubb/bbes/sbbes/ubbes/bbsp/sbbsp/ubbsp/buff/passive] [additional arguments] ...",
 		"example":"h/search unit element:fire buff:43 rarity:8 (searches all Fire units with Instant OD Fill in kit)\nh/search bb,sbb,sp element:water buff:43 passive:31 (searches all Water units with Instant OD Fill as an Active Effect and Spark Boost as a Passive Effect on BB, SBB and/or SP)\nh/search buff spark (searches all Active Effects with \"spark\" in their name)\nh/search passive dot (searches all Passive Effects with \"dot\" in their name)",
 		"category":"Miscellaneous Info"
 	},
@@ -339,6 +353,12 @@
 	"time":{
 		"name":"Time",
 		"desc":"Shows the current server time of the game.",
+		"usage":"",
+		"category":"Miscellaneous Info"
+	},
+	"invite":{
+		"name":"Credits",
+		"desc":"Outputs the invite link of this bot, which can then be used to invite Hamzabot to your Discord Server.",
 		"usage":"",
 		"category":"Miscellaneous Info"
 	},
