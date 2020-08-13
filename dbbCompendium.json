@@ -790,5 +790,14 @@
             "820948"
         ],
         "synergy":"Tsunami"
+    },
+    "3850928":{
+        "desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, BC, HC, item drop rate, critical damage, own Spark damage, Light, Fire elemental damage, OD gauge, spark damage boosts BB gauge, fully restores HP & 100% evasion",
+        "name":"Forgiven Betrayal\n",
+        "pair":[
+            "810928",
+            "850928"
+        ],
+        "synergy":"Nova"
     }
 }
