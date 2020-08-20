@@ -793,11 +793,20 @@
     },
     "3850928":{
         "desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, BC, HC, item drop rate, critical damage, own Spark damage, Light, Fire elemental damage, OD gauge, spark damage boosts BB gauge, fully restores HP & 100% evasion",
-        "name":"Forgiven Betrayal\n",
+        "name":"Forgiven Betrayal",
         "pair":[
             "810928",
             "850928"
         ],
         "synergy":"Nova"
+    },
+    "3850888":{
+        "desc":"68 combo grand dual attack on all foes (damage relative to remaining HP), boosts all elemental damage, critical damage, max HP, 100% damage reduction, Atk, Def, Rec relative to max HP, spark damage boosts BB gauge, damage taken boosts BB gauge and restores HP, activates BB/SBB/UBB twice & 80% KO resistance",
+        "name":"Sacrosanct Qualia",
+        "pair":[
+            "850888",
+            "860888"
+        ],
+        "synergy":"Twilight"
     }
 }
