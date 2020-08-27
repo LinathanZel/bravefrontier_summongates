@@ -808,5 +808,32 @@
             "860888"
         ],
         "synergy":"Twilight"
+    },
+    "3860758":{
+        "desc":"42 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, Fire, Dark elemental damage, Atk, Rec relative to Def, raises normal hit amount, inflicts Atk, Def reduction, BB gauge, perform 1 extra action within the same turn & fully restores HP",
+        "name":"Final Consciousness",
+        "pair":[
+            "810828",
+            "860758"
+        ],
+        "synergy":"Pyre"
+    },
+    "3810438":{
+        "desc":"62 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, BB Atk, damage against status afflicted foes, adds status ailment infliction to attack, fills OD gauge at turn's end, activates fire barrier & fully restores HP",
+        "name":"Beguiling Snare",
+        "pair":[
+            "810438",
+            "830418"
+        ],
+        "synergy":"Magma"
+    },
+    "3840418":{
+        "desc":"62 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, BB Atk, damage against status afflicted foes, spark critical, adds status ailment infliction to attack, raises normal hit amount, activates earth barrier & fills OD gauge at turn's end",
+        "name":"Frenzied Fury",
+        "pair":[
+            "830418",
+            "840418"
+        ],
+        "synergy":"Eruption"
     }
 }
