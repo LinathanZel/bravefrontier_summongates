@@ -835,5 +835,14 @@
             "840418"
         ],
         "synergy":"Eruption"
+    },
+    "3850908":{
+        "desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts spark damage, 100% damage reduction, spark damage boosts BB gauge, 100% evasion, inflicts Atk, Def reduction, fully restores HP, activates Fire barrier, 80% KO resistance, 100% raises allies from KO & purges LS and ES Lock",
+        "name":"Heru-sa-Aset",
+        "pair":[
+            "810688",
+            "850908"
+        ],
+        "synergy":"Nova"
     }
 }
