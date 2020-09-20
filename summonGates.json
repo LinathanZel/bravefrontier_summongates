@@ -53,7 +53,7 @@
 		"name": "Heroes Bond Summon (Sep 16, 2020)",
 		"resetback": true
 	},
-	"Vortex Arena Resummon (Sep 23, 2020)":{
+	"Vortex Arena Resummon (Sep 16, 2020)":{
 		"rates": {
 			"pools": 4,
 			"pool 1": [4.0],
@@ -68,7 +68,7 @@
 			"pool 4": ["810105", "810315", "810417", "810437", "820315", "820417", "830505", "830417", "830437", "830315", "830325", "840115", "840315", "840417", "850155", "850417", "850315", "860105", "860255", "860315", "860417"]
 		},
 		"guaranteed": {},
-		"name": "Vortex Arena Resummon (Sep 23, 2020)",
+		"name": "Vortex Arena Resummon (Sep 16, 2020)",
 		"resetback": false
 	},
 	"Gallant Guard Summon (Sep 16, 2020)":{
