@@ -844,5 +844,23 @@
             "850908"
         ],
         "synergy":"Nova"
+    },
+    "4830758":{
+        "desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, critical damage, Atk, Def, Rec relative to max HP, 100% evasion, BB gauge, fully restores HP, 100% DoT reduction, purges DoT effects & inflicts Atk, Def reduction",
+        "name":"Rock the Waves!",
+        "pair":[
+            "820828",
+            "830758"
+        ],
+        "synergy":"Quagmire"
+    },
+    "3830958":{
+        "desc":"42 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, spark damage, critical damage, Fire, Earth elemental damage, raises normal hit amount, 100% evasion & fully restores HP",
+        "name":"Saint and Sinner",
+        "pair":[
+            "810958",
+            "830958"
+        ],
+        "synergy":"Magma"
     }
 }
