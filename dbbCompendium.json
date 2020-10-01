@@ -862,5 +862,23 @@
             "830958"
         ],
         "synergy":"Magma"
-    }
+    },
+	"3840958":{
+		"desc":"42 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, critical damage, Earth, Thunder elemental damage, 100% damage reduction, damage taken boosts BB gauge, 100% evasion, fully restores HP & fills OD gauge at turn's end",
+        "name":"Soul of Justice",
+        "pair":[
+            "830958",
+            "840958"
+        ],
+        "synergy":"Eruption"
+	},
+	"3810958":{
+		"desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, spark damage, Fire, Thunder elemental damage, 100% damage reduction, damage taken boosts BB gauge, raises normal hit amount, inflicts Atk, Def reduction & fills OD gauge at turn's end",
+        "name":"Jailbreak",
+        "pair":[
+            "810958",
+            "840958"
+        ],
+        "synergy":"Blast"
+	}
 }
