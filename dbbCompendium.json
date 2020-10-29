@@ -880,5 +880,68 @@
             "840958"
         ],
         "synergy":"Blast"
+	},
+	"4810958":{
+		"desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, spark damage, inflicts Atk, Def reduction, raises normal hit amount, BB gauge, fills OD gauge at turn's end & adds Atk, Def reduction to attack",
+        "name":"Explosive Escape",
+        "pair":[
+            "810958",
+            "850958"
+        ],
+        "synergy":"Nova"
+	},
+	"3850958":{
+		"desc":"42 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, critical damage, Earth, Light elemental damage, BB gauge, 100% evasion, fully restores HP, fills OD gauge at turn's end & adds Atk, Def reduction to attack",
+        "name":"Heavenshaker",
+        "pair":[
+            "830958",
+            "850958"
+        ],
+        "synergy":"Prism"
+	},
+	"4850958":{
+		"desc":"42 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, Thunder, Light elemental damage, 100% damage reduction, damage taken boosts BB gauge, BB gauge, fills OD gauge at turn's end & adds Atk, Def reduction to attack",
+        "name":"Bursting Pride",
+        "pair":[
+            "840958",
+            "850958"
+        ],
+        "synergy":"Radiance"
+	},
+	"4840828":{
+		"desc":"56 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, Spark damage, critical damage, BB gauge, spark critical, raises normal hit amount, spark damage boosts BB gauge & activates BB/SBB/UBB twice",
+        "name":"Man, Myth, Legend",
+        "pair":[
+            "840828",
+            "850758"
+        ],
+        "synergy":"Radiance"
+	},
+	"3820888":{
+		"desc":"64 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Fire, Water elemental damage, BB gauge, 100% damage reduction, damage taken restores HP, 80% KO resistance & activates BB/SBB/UBB twice",
+        "name":"Usque Morari",
+        "pair":[
+            "810888",
+            "820888"
+        ],
+        "synergy":"Steam"
+	},
+	"3810888":{
+		"desc":"66 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, Fire, Earth elemental damage, BB gauge, 100% damage reduction, OD gauge, 80% KO resistance, 80% raises allies from KO & activates BB/SBB/UBB twice",
+        "name":"Apóptōsis",
+        "pair":[
+            "810888",
+            "830888"
+        ],
+        "synergy":"Magma"
+	},
+	"3840968":{
+		"desc":"52 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, critical damage, spark damage, Thunder, Dark elemental damage, BB gauge, fills OD gauge at turn's end, inflicts Atk, Def reduction, massive DoT on all foes & perform 1 extra action within the same turn",
+        "name":"Prisoner's Dilemma",
+        "pair":[
+            "840968",
+            "860968"
+        ],
+        "synergy":"Magma"
 	}
 }
