@@ -943,5 +943,77 @@
             "860968"
         ],
         "synergy":"Magma"
+	},
+	"4820958":{
+		"desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, spark damage, spark critical, BB gauge, raises normal hit amount, spark vulnerability infliction & inflicts Atk, Def reduction",
+        "name":"Lawless Last Stand",
+        "pair":[
+            "810958",
+            "820958"
+        ],
+        "synergy":"Steam"
+	},
+	"4830958":{
+		"desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, critical damage, Water, Earth elemental damage, BB gauge, spark critical, spark vulnerability infliction, 100% evasion & fully restores HP",
+        "name":"Guilty Verdict",
+        "pair":[
+            "820958",
+            "830958"
+        ],
+        "synergy":"Quagmire"
+	},
+	"4840958":{
+		"desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, Earth, Thunder elemental damage, BB gauge, damage taken boosts BB gauge, 100% damage reduction, spark critical, spark vulnerability infliction & fills OD gauge at turn's end",
+        "name":"Righteous Might",
+        "pair":[
+            "820958",
+            "840958"
+        ],
+        "synergy":"Tempest"
+	},
+	"3820958":{
+		"desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, critical damage, BB gauge, spark critical, spark vulnerability infliction, adds Atk, Def reduction to attack & fills OD gauge at turn's end",
+        "name":"Sparkling Detonator",
+        "pair":[
+            "820958",
+            "850958"
+        ],
+        "synergy":"Mist"
+	},
+	"4860578":{
+		"desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, spark damage, 100% Light, Dark damage reduction, spark damage restores HP & 100% raises allies from KO",
+        "name":"Cosmic Inception",
+        "pair":[
+            "850988",
+            "860578"
+        ],
+        "synergy":"Twilight"
+	},
+	"3850988":{
+		"desc":"54 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, spark damage, all elemental damage, Atk, Def, Rec relative to max HP, BB gauge, spark damage restores HP, OD gauge, 100% raises allies from KO & perform 1 extra action within the same turn",
+        "name":"Rainbow Dimension",
+        "pair":[
+            "830978",
+            "850988"
+        ],
+        "synergy":"Prism"
+	},
+	"3830978":{
+		"desc":"70 combo grand dual attack on all foes (damage relative to remaining HP), boosts own Atk, Def, Rec, own spark damage, all elemental damage, Atk, Def, Rec relative to max HP, BB gauge, OD gauge, OD gauge at turn's end, 100% raises allies from KO, spark vulnerability infliction & perform 1 extra action within the same turn for self",
+        "name":"Sunscorch Fever",
+        "pair":[
+            "830978",
+            "860978"
+        ],
+        "synergy":"Obsidian"
+	},
+	"4850988":{
+		"desc":"70 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, spark damage, spark damage restores HP, fills OD gauge at turn's end, spark vulnerability infliction & perform 1 extra action within the same turn",
+        "name":"Absolute Annihilation",
+        "pair":[
+            "850988",
+            "860978"
+        ],
+        "synergy":"Twilight"
 	}
 }
