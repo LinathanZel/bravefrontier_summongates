@@ -1015,5 +1015,14 @@
             "860978"
         ],
         "synergy":"Twilight"
+	},
+	"4830828":{
+		"desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, critical damage, Def relative to Atk, 100% damage reduction, damage taken boosts BB gauge and restores HP, damage taken inflicts Atk, Def reduction & 100% raises allies from KO",
+        "name":"Skyfall Avalanche",
+        "pair":[
+            "830828",
+            "840758"
+        ],
+        "synergy":"Eruption"
 	}
 }
