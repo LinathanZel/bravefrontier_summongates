@@ -942,7 +942,7 @@
             "840968",
             "860968"
         ],
-        "synergy":"Magma"
+        "synergy":"Cyclone"
 	},
 	"4820958":{
 		"desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, max HP, spark damage, spark critical, BB gauge, raises normal hit amount, spark vulnerability infliction & inflicts Atk, Def reduction",
@@ -1024,5 +1024,77 @@
             "840758"
         ],
         "synergy":"Eruption"
+	},
+	"6860958":{
+		"desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, critical damage, raises normal hit amount & inflicts Atk, Def reduction",
+        "name":"Luck be a Lady",
+        "pair":[
+            "810958",
+            "860958"
+        ],
+        "synergy":"Pyre"
+	},
+	"3860958":{
+		"desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, critical damage, BB gauge, spark critical, spark vulnerability infliction & inflicts Atk, Def reduction",
+        "name":"World-Ringing Bullet",
+        "pair":[
+            "820958",
+            "860958"
+        ],
+        "synergy":"Miasma"
+	},
+	"7860958":{
+		"desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, Earth, Dark elemental damage, fully restores HP, 100% evasion & inflicts Atk, Def reduction",
+        "name":"Death Prayer",
+        "pair":[
+            "830958",
+            "860958"
+        ],
+        "synergy":"Obsidian"
+	},
+	"5860958":{
+		"desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, Thunder, Dark elemental damage, OD gauge at turn's end, 100% damage reduction, damage taken boosts BB gauge & inflicts Atk, Def reduction",
+        "name":"Indignant Injustice",
+        "pair":[
+            "840958",
+            "860958"
+        ],
+        "synergy":"Blast"
+	},
+	"4860958":{
+		"desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, BB gauge, OD gauge at turn's end, adds Atk, Def reduction to attack & inflicts Atk, Def reduction",
+        "name":"Sanctuary Shootout",
+        "pair":[
+            "850958",
+            "860958"
+        ],
+        "synergy":"Twilight"
+	},
+	"3820998":{
+		"desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, Water, Earth elemental damage, Atk, Def, Rec relative to max HP, OD gauge, BB gauge, spark vulnerability infliction, 100% damage reduction, 100% DoT reduction & inflicts Atk, Def reduction",
+        "name":"Crystal Menagerie",
+        "pair":[
+            "820998",
+            "830998"
+        ],
+        "synergy":"Quagmire"
+	},
+	"3810998":{
+		"desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, Fire, Earth elemental damage, BB gauge, fully restores HP, 100% DoT reduction, 100% raises allies from KO & inflicts Atk, Def reduction",
+        "name":"Awakened Spirits",
+        "pair":[
+            "810998",
+            "830998"
+        ],
+        "synergy":"Magma"
+	},
+	"4820998":{
+		"desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, critical damage, Atk, Def, Rec relative to max HP, OD gauge, fully restores HP, 100% damage reduction, spark vulnerability infliction & 100% raises allies from KO",
+        "name":"Dragonfear",
+        "pair":[
+            "810998",
+            "820998"
+        ],
+        "synergy":"Steam"
 	}
 }
