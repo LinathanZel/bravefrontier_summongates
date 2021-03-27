@@ -1096,5 +1096,113 @@
             "820998"
         ],
         "synergy":"Steam"
+	},
+	"4810998":{
+		"desc":"46 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, Fire, Thunder elemental damage, Atk, Def, Rec relative to max HP, fully restores HP, spark damage boosts BB gauge & 100% raises allies from KO",
+        "name":"Fang and Claw",
+        "pair":[
+            "810998",
+            "840998"
+        ],
+        "synergy":"Blast"
+	},
+	"3840998":{
+		"desc":"40 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, critical damage, Thunder, Light elemental damage, Atk, Def, Rec relative to max HP, spark damage boosts BB gauge & damage taken boosts BB gauge and restores HP",
+        "name":"Chaotic Clamor",
+        "pair":[
+            "840998",
+            "850998"
+        ],
+        "synergy":"Radiance"
+	},
+	"3860998":{
+		"desc":"56 combo grand dual attack on all foes (damage relative to remaining HP), boosts max HP, spark damage, Thunder, Dark elemental damage, Atk, Def, Rec relative to max HP, spark critical, Spark damage boosts BB gauge, 100% evasion & 80% KO resistance",
+        "name":"Night Howler",
+        "pair":[
+            "840998",
+            "860998"
+        ],
+        "synergy":"Cyclone"
+	},
+	"5820998":{
+		"desc":"56 combo grand dual attack on all foes (damage relative to remaining HP), boosts spark damage, Atk, Def, Rec relative to max HP, spark critical, OD gauge, 100% damage reduction, spark vulnerability infliction, 100% evasion & 80% KO resistance",
+        "name":"Dream Deep",
+        "pair":[
+            "810998",
+            "860998"
+        ],
+        "synergy":"Miasma"
+	},
+	"4860998":{
+		"desc":"56 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, critical damage, spark critical, damage taken boosts BB gauge and restores HP, 100% evasion & 80% KO resistance",
+        "name":"Shadowed Lights",
+        "pair":[
+            "850998",
+            "860998"
+        ],
+        "synergy":"Twilight"
+	},
+	"5811008":{
+		"desc":"60 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, raises normal hit amount, 100% damage reduction, damage taken boosts BB gauge and restores HP, adds status ailment infliction to attack, OD gauge, 100% evasion & perform 1 extra action within the same turn",
+        "name":"Secret Heart",
+        "pair":[
+            "811008",
+            "820848"
+        ],
+        "synergy":"Steam"
+	},
+	"4811008":{
+		"desc":"60 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, fills BB gauge, fully restores HP, raises normal hit amount, Atk, Rec relative to Def, 100% evasion, 80% raises allies from KO & perform 1 extra action within the same turn",
+        "name":"Mind-Body Manipulation",
+        "pair":[
+            "811008",
+            "840848"
+        ],
+        "synergy":"Blast"
+	},
+	"3811008":{
+		"desc":"60 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, raises normal hit amount, Fire, Dark elemental damage, boosts damage against status afflicted foes, damage taken boosts BB gauge and restores HP, 100% evasion & perform 1 extra action within the same turn",
+        "name":"Devil’s Desire",
+        "pair":[
+            "811008",
+            "861008"
+        ],
+        "synergy":"Pyre"
+	},
+	"3840848":{
+		"desc":"48 combo grand dual attack on all foes (damage relative to remaining HP), boosts Thunder, Dark elemental damage, fills BB gauge, fully restores HP, Atk, Rec relative to Def, boosts damage against status afflicted foes, inflicts Atk, Def reduction, damage taken boosts BB gauge and restores HP, 80% raises allies from KO & activates BB/SBB/UBB twice",
+        "name":"Enantiodromia",
+        "pair":[
+            "840848",
+            "861008"
+        ],
+        "synergy":"Cyclone"
+	},
+	"3851018":{
+		"desc":"68 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, max HP, spark damage, Atk, Def, Rec relative to max HP, spark vulnerability infliction, damage taken boosts BB gauge and restores HP, 100% raises allies from KO & activates BB/SBB/UBB twice",
+        "name":"Breath of the Earth",
+        "pair":[
+            "830698",
+            "851018"
+        ],
+        "synergy":"Prism"
+	},
+	"3831018":{
+		"desc":"44 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, own spark damage, max HP, fills BB gauge, 100% damage reduction, spark vulnerability infliction, damage taken boosts BB gauge and restores HP & 100% raises allies from KO",
+        "name":"Earthbound Fury",
+        "pair":[
+            "830698",
+            "831018"
+        ],
+        "synergy":"Tremor"
+	},
+	"4851018":{
+		"desc":"68 combo grand dual attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec, critical hit rate, spark damage, own spark damage, fills BB gauge, 100% damage reduction, Atk, Def, Rec relative to max HP, spark vulnerability infliction & activates BB/SBB/UBB twice",
+        "name":"Oathkeeper",
+        "pair":[
+            "831018",
+            "851018"
+        ],
+        "synergy":"Prism"
 	}
 }
